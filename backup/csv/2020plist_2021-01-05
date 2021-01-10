@@ -1,0 +1,17 @@
+,pid,Player,height,weight,dob,yob,city,state,country,height_in,born
+0,haytoba01,Barrett Hayton,6-1,192, June 9,2000,Peterborough,Ontario,ca,73,2000-06-09
+1,wahlsol01,Oliver Wahlstrom,6-1,205, June 13,2000,Portland,Maine,us,73,2000-06-13
+2,kotkaje01,Jesperi Kotkaniemi,6-2,184, July 6,2000,Pori,Finland,fi,74,2000-07-06
+3,bjornto01,Tobias Bjornfot,6-0,187, April 6,2001,Upplands Vasby,Sweden,se,72,2001-04-06
+4,gustada01,David Gustafsson,6-2,196, April 11,2000,Tingsryd,Sweden,se,74,2000-04-11
+5,farabjo01,Joel Farabee,6-0,164, February 25,2000,Syracuse,New York,us,72,2000-02-25
+6,hugheja03,Jack Hughes,5-10,168, May 14,2001,Orlando,Florida,us,70,2001-05-14
+7,foudyli01,Liam Foudy,6-0,174, February 4,2000,Toronto,Ontario,ca,72,2000-02-04
+8,dachki01,Kirby Dach,6-4,197, January 21,2001,Fort Saskatchewan,Alberta,ca,76,2001-01-21
+9,heinovi01,Ville Heinola,6-1,188, March 2,2001,Honkajoki,Finland,fi,73,2001-03-02
+10,sandira01,Rasmus Sandin,6-0,184, March 7,2000,Uppsala,Sweden,se,72,2000-03-07
+11,svechan01,Andrei Svechnikov,6-2,195, March 26,2000,Barnaul,Russian Federation,ru,74,2000-03-26
+12,dobsono01,Noah Dobson,6-3,179, January 7,2000,Summerside,Prince Edward Island,ca,75,2000-01-07
+13,dahlira01,Rasmus Dahlin,6-3,186, April 13,2000,Lidkoping,Sweden,se,75,2000-04-13
+14,boqviad01,Adam Boqvist,5-11,179, August 15,2000,Falun,Sweden,se,71,2000-08-15
+15,kakkoka01,Kaapo Kakko,6-1,181, February 13,2001,Turku,Finland,fi,73,2001-02-13

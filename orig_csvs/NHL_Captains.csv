@@ -1,0 +1,1657 @@
+Team,Name,Age,Pos,Birthplace,Nat.,YR_INT,pid
+Anaheim Ducks,Ryan Getzlaf,34.0,C,"Regina, SK",CA,2020,getzlry01
+Arizona Coyotes,Oliver Ekman-Larsson,28.0,D,Karlskrona,SE,2020,ekmanol01
+Boston Bruins,Zdeno Chara,42.0,D,Trencin,CS,2020,charazd01
+Buffalo Sabres,Jack Eichel,23.0,C,"North Chelmsford, MA",US,2020,eicheja01
+Calgary Flames,Mark Giordano,36.0,D,"Toronto, ON",CA,2020,giordma01
+Carolina Hurricanes,Jordan Staal,31.0,C,"Thunder Bay, ON",CA,2020,staaljo01
+Chicago Blackhawks,Jonathan Toews,31.0,C,"Winnipeg, MB",CA,2020,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,27.0,LW,Stockholm,SE,2020,landega01
+Columbus Blue Jackets,Nick Foligno,32.0,LW,"Buffalo, NY",US,2020,foligni01
+Dallas Stars,Jamie Benn,30.0,LW,"Victoria, BC",CA,2020,bennja01
+Detroit Red Wings,No Captain,,,,,2020,
+Edmonton Oilers,Connor McDavid,23.0,C,"Richmond Hill, ON",CA,2020,mcdavco01
+Florida Panthers,Aleksander Barkov,24.0,C,Tampere,FI,2020,barkoal01
+Los Angeles Kings,Anze Kopitar,32.0,C,Jesenice,SI,2020,kopitan01
+Minnesota Wild,Mikko Koivu,36.0,C,Turku,FI,2020,koivumi01
+Montreal Canadiens,Shea Weber,34.0,D,"Sicamous, BC",CA,2020,webersh01
+Nashville Predators,Roman Josi,29.0,D,Bern,CH,2020,josiro01
+New Jersey Devils,No Captain,,,,,2020,
+New York Islanders,Anders Lee,29.0,LW,"Edina, MN",US,2020,leean01
+New York Rangers,No Captain,,,,,2020,
+Ottawa Senators,No Captain,,,,,2020,
+Philadelphia Flyers,Claude Giroux,32.0,C/LW,"Hearst, ON",CA,2020,giroucl01
+Pittsburgh Penguins,Sidney Crosby,32.0,C,"Cole Harbour, NS",CA,2020,crosbsi01
+San Jose Sharks,Logan Couture,30.0,C,"Guelph, ON",CA,2020,coutulo01
+St. Louis Blues,Alex Pietrangelo,30.0,D,"King City, ON",CA,2020,pietral01
+Tampa Bay Lightning,Steven Stamkos,29.0,C,"Markham, ON",CA,2020,stamkst01
+Toronto Maple Leafs,John Tavares,29.0,C,"Mississauga, ON",CA,2020,tavarjo01
+Vancouver Canucks,Bo Horvat,24.0,C,"London, ON",CA,2020,horvabo01
+Vegas Golden Knights,No Captain,,,,,2020,
+Washington Capitals,Alex Ovechkin,34.0,LW,Moscow,SU,2020,ovechal01
+Winnipeg Jets,Blake Wheeler,33.0,RW,"Plymouth, MN",US,2020,wheelbl01
+Anaheim Ducks,Ryan Getzlaf,33.0,C,"Regina, SK",CA,2019,getzlry01
+Arizona Coyotes,Oliver Ekman-Larsson,27.0,D,Karlskrona,SE,2019,ekmanol01
+Boston Bruins,Zdeno Chara,41.0,D,Trencin,CS,2019,charazd01
+Buffalo Sabres,Jack Eichel,22.0,C,"North Chelmsford, MA",US,2019,eicheja01
+Calgary Flames,Mark Giordano,35.0,D,"Toronto, ON",CA,2019,giordma01
+Carolina Hurricanes,Justin Williams,37.0,RW,"Cobourg, ON",CA,2019,williju01
+Chicago Blackhawks,Jonathan Toews,30.0,C,"Winnipeg, MB",CA,2019,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,26.0,LW,Stockholm,SE,2019,landega01
+Columbus Blue Jackets,Nick Foligno,31.0,LW,"Buffalo, NY",US,2019,foligni01
+Dallas Stars,Jamie Benn,29.0,LW,"Victoria, BC",CA,2019,bennja01
+Detroit Red Wings,No Captain,,,,,2019,
+Edmonton Oilers,Connor McDavid,22.0,C,"Richmond Hill, ON",CA,2019,mcdavco01
+Florida Panthers,Aleksander Barkov,23.0,C,Tampere,FI,2019,barkoal01
+Los Angeles Kings,Anze Kopitar,31.0,C,Jesenice,SI,2019,kopitan01
+Minnesota Wild,Mikko Koivu,35.0,C,Turku,FI,2019,koivumi01
+Montreal Canadiens,Shea Weber,33.0,D,"Sicamous, BC",CA,2019,webersh01
+Nashville Predators,Roman Josi,28.0,D,Bern,CH,2019,josiro01
+New Jersey Devils,Andy Greene,36.0,D,"Trenton, MI",US,2019,greenan01
+New York Islanders,Anders Lee,28.0,LW,"Edina, MN",US,2019,leean01
+New York Rangers,No Captain,,,,,2019,
+Ottawa Senators,No Captain,,,,,2019,
+Philadelphia Flyers,Claude Giroux,31.0,C/LW,"Hearst, ON",CA,2019,giroucl01
+Pittsburgh Penguins,Sidney Crosby,31.0,C,"Cole Harbour, NS",CA,2019,crosbsi01
+San Jose Sharks,Joe Pavelski,34.0,C,"Plover, WI",US,2019,paveljo01
+St. Louis Blues,Alex Pietrangelo,29.0,D,"King City, ON",CA,2019,pietral01
+Tampa Bay Lightning,Steven Stamkos,28.0,C,"Markham, ON",CA,2019,stamkst01
+Toronto Maple Leafs,No Captain,,,,,2019,
+Vancouver Canucks,No Captain,,,,,2019,
+Vegas Golden Knights,No Captain,,,,,2019,
+Washington Capitals,Alex Ovechkin,33.0,LW,Moscow,SU,2019,ovechal01
+Winnipeg Jets,Blake Wheeler,32.0,RW,"Plymouth, MN",US,2019,wheelbl01
+Anaheim Ducks,Ryan Getzlaf,32.0,C,"Regina, SK",CA,2018,getzlry01
+Arizona Coyotes,No Captain,,,,,2018,
+Boston Bruins,Zdeno Chara,40.0,D,Trencin,CS,2018,charazd01
+Buffalo Sabres,No Captain,,,,,2018,
+Calgary Flames,Mark Giordano,34.0,D,"Toronto, ON",CA,2018,giordma01
+Carolina Hurricanes,Jordan Staal,29.0,C,"Thunder Bay, ON",CA,2018,staaljo01
+Carolina Hurricanes,Justin Faulk,25.0,D,"South St. Paul, MN",US,2018,faulkju01
+Chicago Blackhawks,Jonathan Toews,29.0,C,"Winnipeg, MB",CA,2018,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,25.0,LW,Stockholm,SE,2018,landega01
+Columbus Blue Jackets,Nick Foligno,30.0,LW,"Buffalo, NY",US,2018,foligni01
+Dallas Stars,Jamie Benn,28.0,LW,"Victoria, BC",CA,2018,bennja01
+Detroit Red Wings,Henrik Zetterberg,37.0,LW,Njurunda,SE,2018,zettehe01
+Edmonton Oilers,Connor McDavid,21.0,C,"Richmond Hill, ON",CA,2018,mcdavco01
+Florida Panthers,Derek MacKenzie,36.0,C,"Sudbury, ON",CA,2018,mackede01
+Los Angeles Kings,Anze Kopitar,30.0,C,Jesenice,SI,2018,kopitan01
+Minnesota Wild,Mikko Koivu,34.0,C,Turku,FI,2018,koivumi01
+Montreal Canadiens,Max Pacioretty,29.0,LW,"New Canaan, CT",US,2018,pacioma01
+Nashville Predators,Roman Josi,27.0,D,Bern,CH,2018,josiro01
+New Jersey Devils,Andy Greene,35.0,D,"Trenton, MI",US,2018,greenan01
+New York Islanders,John Tavares,27.0,C,"Mississauga, ON",CA,2018,tavarjo01
+New York Rangers,Ryan McDonagh,28.0,D,"St. Paul, MN",US,2018,mcdonry01
+Ottawa Senators,Erik Karlsson,27.0,D,Landsbro,SE,2018,karlser01
+Philadelphia Flyers,Claude Giroux,30.0,C/LW,"Hearst, ON",CA,2018,giroucl01
+Pittsburgh Penguins,Sidney Crosby,30.0,C,"Cole Harbour, NS",CA,2018,crosbsi01
+San Jose Sharks,Joe Pavelski,33.0,C,"Plover, WI",US,2018,paveljo01
+St. Louis Blues,Alex Pietrangelo,28.0,D,"King City, ON",CA,2018,pietral01
+Tampa Bay Lightning,Steven Stamkos,27.0,C,"Markham, ON",CA,2018,stamkst01
+Toronto Maple Leafs,No Captain,,,,,2018,
+Vancouver Canucks,Henrik Sedin,37.0,C,Ornskoldsvik,SE,2018,sedinhe01
+Vegas Golden Knights,No Captain,,,,,2018,
+Washington Capitals,Alex Ovechkin,32.0,LW,Moscow,SU,2018,ovechal01
+Winnipeg Jets,Blake Wheeler,31.0,RW,"Plymouth, MN",US,2018,wheelbl01
+Anaheim Ducks,Ryan Getzlaf,31.0,C,"Regina, SK",CA,2017,getzlry01
+Arizona Coyotes,Shane Doan,40.0,RW,"Halkirk, AB",CA,2017,doansh01
+Boston Bruins,Zdeno Chara,39.0,D,Trencin,CS,2017,charazd01
+Buffalo Sabres,Brian Gionta,38.0,RW,"Rochester, NY",US,2017,giontbr01
+Calgary Flames,Mark Giordano,33.0,D,"Toronto, ON",CA,2017,giordma01
+Carolina Hurricanes,No Captain,,,,,2017,
+Chicago Blackhawks,Jonathan Toews,28.0,C,"Winnipeg, MB",CA,2017,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,24.0,LW,Stockholm,SE,2017,landega01
+Columbus Blue Jackets,Nick Foligno,29.0,LW,"Buffalo, NY",US,2017,foligni01
+Dallas Stars,Jamie Benn,27.0,LW,"Victoria, BC",CA,2017,bennja01
+Detroit Red Wings,Henrik Zetterberg,36.0,LW,Njurunda,SE,2017,zettehe01
+Edmonton Oilers,Connor McDavid,20.0,C,"Richmond Hill, ON",CA,2017,mcdavco01
+Florida Panthers,Derek MacKenzie,35.0,C,"Sudbury, ON",CA,2017,mackede01
+Los Angeles Kings,Anze Kopitar,29.0,C,Jesenice,SI,2017,kopitan01
+Minnesota Wild,Mikko Koivu,33.0,C,Turku,FI,2017,koivumi01
+Montreal Canadiens,Max Pacioretty,28.0,LW,"New Canaan, CT",US,2017,pacioma01
+Nashville Predators,Mike Fisher,36.0,C,"Peterborough, ON",CA,2017,fishemi01
+New Jersey Devils,Andy Greene,34.0,D,"Trenton, MI",US,2017,greenan01
+New York Islanders,John Tavares,26.0,C,"Mississauga, ON",CA,2017,tavarjo01
+New York Rangers,Ryan McDonagh,27.0,D,"St. Paul, MN",US,2017,mcdonry01
+Ottawa Senators,Erik Karlsson,26.0,D,Landsbro,SE,2017,karlser01
+Philadelphia Flyers,Claude Giroux,29.0,C/LW,"Hearst, ON",CA,2017,giroucl01
+Pittsburgh Penguins,Sidney Crosby,29.0,C,"Cole Harbour, NS",CA,2017,crosbsi01
+San Jose Sharks,Joe Pavelski,32.0,C,"Plover, WI",US,2017,paveljo01
+St. Louis Blues,Alex Pietrangelo,27.0,D,"King City, ON",CA,2017,pietral01
+Tampa Bay Lightning,Steven Stamkos,26.0,C,"Markham, ON",CA,2017,stamkst01
+Toronto Maple Leafs,No Captain,,,,,2017,
+Vancouver Canucks,Henrik Sedin,36.0,C,Ornskoldsvik,SE,2017,sedinhe01
+Washington Capitals,Alex Ovechkin,31.0,LW,Moscow,SU,2017,ovechal01
+Winnipeg Jets,Blake Wheeler,30.0,RW,"Plymouth, MN",US,2017,wheelbl01
+Anaheim Ducks,Ryan Getzlaf,30.0,C,"Regina, SK",CA,2016,getzlry01
+Arizona Coyotes,Shane Doan,39.0,RW,"Halkirk, AB",CA,2016,doansh01
+Boston Bruins,Zdeno Chara,38.0,D,Trencin,CS,2016,charazd01
+Buffalo Sabres,Brian Gionta,37.0,RW,"Rochester, NY",US,2016,giontbr01
+Calgary Flames,Mark Giordano,32.0,D,"Toronto, ON",CA,2016,giordma01
+Carolina Hurricanes,Eric Staal,31.0,C,"Thunder Bay, ON",CA,2016,staaler01
+Chicago Blackhawks,Jonathan Toews,27.0,C,"Winnipeg, MB",CA,2016,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,23.0,LW,Stockholm,SE,2016,landega01
+Columbus Blue Jackets,Nick Foligno,28.0,LW,"Buffalo, NY",US,2016,foligni01
+Dallas Stars,Jamie Benn,26.0,LW,"Victoria, BC",CA,2016,bennja01
+Detroit Red Wings,Henrik Zetterberg,35.0,LW,Njurunda,SE,2016,zettehe01
+Edmonton Oilers,No Captain,,,,,2016,
+Florida Panthers,Willie Mitchell,38.0,D,"Port McNeill, BC",CA,2016,mitchwi01
+Los Angeles Kings,Dustin Brown,31.0,RW,"Ithaca, NY",US,2016,browndu01
+Minnesota Wild,Mikko Koivu,32.0,C,Turku,FI,2016,koivumi01
+Montreal Canadiens,Max Pacioretty,27.0,LW,"New Canaan, CT",US,2016,pacioma01
+Nashville Predators,Shea Weber,30.0,D,"Sicamous, BC",CA,2016,webersh01
+New Jersey Devils,Andy Greene,33.0,D,"Trenton, MI",US,2016,greenan01
+New York Islanders,John Tavares,25.0,C,"Mississauga, ON",CA,2016,tavarjo01
+New York Rangers,Ryan McDonagh,26.0,D,"St. Paul, MN",US,2016,mcdonry01
+Ottawa Senators,Erik Karlsson,25.0,D,Landsbro,SE,2016,karlser01
+Philadelphia Flyers,Claude Giroux,28.0,C/LW,"Hearst, ON",CA,2016,giroucl01
+Pittsburgh Penguins,Sidney Crosby,28.0,C,"Cole Harbour, NS",CA,2016,crosbsi01
+San Jose Sharks,Joe Pavelski,31.0,C,"Plover, WI",US,2016,paveljo01
+St. Louis Blues,David Backes,31.0,C,"Minneapolis, MN",US,2016,backeda01
+Tampa Bay Lightning,Steven Stamkos,25.0,C,"Markham, ON",CA,2016,stamkst01
+Toronto Maple Leafs,Dion Phaneuf,30.0,D,"Edmonton, AB",CA,2016,phanedi01
+Vancouver Canucks,Henrik Sedin,35.0,C,Ornskoldsvik,SE,2016,sedinhe01
+Washington Capitals,Alex Ovechkin,30.0,LW,Moscow,SU,2016,ovechal01
+Winnipeg Jets,Andrew Ladd,30.0,LW,"Maple Ridge, BC",CA,2016,laddan01
+Anaheim Ducks,Ryan Getzlaf,29.0,C,"Regina, SK",CA,2015,getzlry01
+Arizona Coyotes,Shane Doan,38.0,RW,"Halkirk, AB",CA,2015,doansh01
+Boston Bruins,Zdeno Chara,37.0,D,Trencin,CS,2015,charazd01
+Buffalo Sabres,Brian Gionta,36.0,RW,"Rochester, NY",US,2015,giontbr01
+Calgary Flames,Mark Giordano,31.0,D,"Toronto, ON",CA,2015,giordma01
+Carolina Hurricanes,Eric Staal,30.0,C,"Thunder Bay, ON",CA,2015,staaler01
+Chicago Blackhawks,Jonathan Toews,26.0,C,"Winnipeg, MB",CA,2015,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,22.0,LW,Stockholm,SE,2015,landega01
+Columbus Blue Jackets,No Captain,,,,,2015,
+Dallas Stars,Jamie Benn,25.0,LW,"Victoria, BC",CA,2015,bennja01
+Detroit Red Wings,Henrik Zetterberg,34.0,LW,Njurunda,SE,2015,zettehe01
+Edmonton Oilers,Andrew Ference,35.0,D,"Edmonton, AB",CA,2015,ferenan01
+Florida Panthers,Willie Mitchell,37.0,D,"Port McNeill, BC",CA,2015,mitchwi01
+Los Angeles Kings,Dustin Brown,30.0,RW,"Ithaca, NY",US,2015,browndu01
+Minnesota Wild,Mikko Koivu,31.0,C,Turku,FI,2015,koivumi01
+Montreal Canadiens,No Captain,,,,,2015,
+Nashville Predators,Shea Weber,29.0,D,"Sicamous, BC",CA,2015,webersh01
+New Jersey Devils,Bryce Salvador,38.0,D,"Brandon, MB",CA,2015,salvabr01
+New York Islanders,John Tavares,24.0,C,"Mississauga, ON",CA,2015,tavarjo01
+New York Rangers,Ryan McDonagh,25.0,D,"St. Paul, MN",US,2015,mcdonry01
+Ottawa Senators,Erik Karlsson,24.0,D,Landsbro,SE,2015,karlser01
+Philadelphia Flyers,Claude Giroux,27.0,C/LW,"Hearst, ON",CA,2015,giroucl01
+Pittsburgh Penguins,Sidney Crosby,27.0,C,"Cole Harbour, NS",CA,2015,crosbsi01
+San Jose Sharks,No Captain,,,,,2015,
+St. Louis Blues,David Backes,30.0,C,"Minneapolis, MN",US,2015,backeda01
+Tampa Bay Lightning,Steven Stamkos,24.0,C,"Markham, ON",CA,2015,stamkst01
+Toronto Maple Leafs,Dion Phaneuf,29.0,D,"Edmonton, AB",CA,2015,phanedi01
+Vancouver Canucks,Henrik Sedin,34.0,C,Ornskoldsvik,SE,2015,sedinhe01
+Washington Capitals,Alex Ovechkin,29.0,LW,Moscow,SU,2015,ovechal01
+Winnipeg Jets,Andrew Ladd,29.0,LW,"Maple Ridge, BC",CA,2015,laddan01
+Anaheim Ducks,Ryan Getzlaf,28.0,C,"Regina, SK",CA,2014,getzlry01
+Boston Bruins,Zdeno Chara,36.0,D,Trencin,CS,2014,charazd01
+Buffalo Sabres,Steve Ott,31.0,C,"Summerside, PE",CA,2014,ottst01
+Buffalo Sabres,Thomas Vanek,30.0,LW,Vienna,AT,2014,vanekth01
+Calgary Flames,Mark Giordano,30.0,D,"Toronto, ON",CA,2014,giordma01
+Carolina Hurricanes,Eric Staal,29.0,C,"Thunder Bay, ON",CA,2014,staaler01
+Chicago Blackhawks,Jonathan Toews,25.0,C,"Winnipeg, MB",CA,2014,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,21.0,LW,Stockholm,SE,2014,landega01
+Columbus Blue Jackets,No Captain,,,,,2014,
+Dallas Stars,Jamie Benn,24.0,LW,"Victoria, BC",CA,2014,bennja01
+Detroit Red Wings,Henrik Zetterberg,33.0,LW,Njurunda,SE,2014,zettehe01
+Edmonton Oilers,Andrew Ference,34.0,D,"Edmonton, AB",CA,2014,ferenan01
+Florida Panthers,Ed Jovanovski,37.0,D,"Windsor, ON",CA,2014,jovaned01
+Los Angeles Kings,Dustin Brown,29.0,RW,"Ithaca, NY",US,2014,browndu01
+Minnesota Wild,Mikko Koivu,30.0,C,Turku,FI,2014,koivumi01
+Montreal Canadiens,Brian Gionta,35.0,RW,"Rochester, NY",US,2014,giontbr01
+Nashville Predators,Shea Weber,28.0,D,"Sicamous, BC",CA,2014,webersh01
+New Jersey Devils,Bryce Salvador,37.0,D,"Brandon, MB",CA,2014,salvabr01
+New York Islanders,John Tavares,23.0,C,"Mississauga, ON",CA,2014,tavarjo01
+New York Rangers,Ryan Callahan,28.0,RW,"Rochester, NY",US,2014,callary01
+New York Rangers,No Captain,,,,,2014,
+Ottawa Senators,Jason Spezza,30.0,C,"Toronto, ON",CA,2014,spezzja01
+Philadelphia Flyers,Claude Giroux,26.0,C/LW,"Hearst, ON",CA,2014,giroucl01
+Phoenix Coyotes,Shane Doan,37.0,RW,"Halkirk, AB",CA,2014,doansh01
+Pittsburgh Penguins,Sidney Crosby,26.0,C,"Cole Harbour, NS",CA,2014,crosbsi01
+San Jose Sharks,Joe Thornton,34.0,C,"London, ON",CA,2014,thornjo01
+St. Louis Blues,David Backes,29.0,C,"Minneapolis, MN",US,2014,backeda01
+Tampa Bay Lightning,Martin St. Louis,38.0,RW,"Laval, QC",CA,2014,stlouma01
+Tampa Bay Lightning,Steven Stamkos,23.0,C,"Markham, ON",CA,2014,stamkst01
+Toronto Maple Leafs,Dion Phaneuf,28.0,D,"Edmonton, AB",CA,2014,phanedi01
+Vancouver Canucks,Henrik Sedin,33.0,C,Ornskoldsvik,SE,2014,sedinhe01
+Washington Capitals,Alex Ovechkin,28.0,LW,Moscow,SU,2014,ovechal01
+Winnipeg Jets,Andrew Ladd,28.0,LW,"Maple Ridge, BC",CA,2014,laddan01
+Anaheim Ducks,Ryan Getzlaf,27.0,C,"Regina, SK",CA,2013,getzlry01
+Boston Bruins,Zdeno Chara,35.0,D,Trencin,CS,2013,charazd01
+Buffalo Sabres,Jason Pominville,30.0,RW,"Repentigny, QC",CA,2013,pominja01
+Calgary Flames,Jarome Iginla,35.0,RW,"Edmonton, AB",CA,2013,iginlja01
+Carolina Hurricanes,Eric Staal,28.0,C,"Thunder Bay, ON",CA,2013,staaler01
+Chicago Blackhawks,Jonathan Toews,24.0,C,"Winnipeg, MB",CA,2013,toewsjo01
+Colorado Avalanche,Gabriel Landeskog,20.0,LW,Stockholm,SE,2013,landega01
+Columbus Blue Jackets,No Captain,,,,,2013,
+Dallas Stars,Brenden Morrow,34.0,LW,"Carlyle, SK",CA,2013,morrobr01
+Detroit Red Wings,Henrik Zetterberg,32.0,LW,Njurunda,SE,2013,zettehe01
+Edmonton Oilers,Shawn Horcoff,34.0,C,"Trail, BC",CA,2013,horcosh01
+Florida Panthers,Ed Jovanovski,36.0,D,"Windsor, ON",CA,2013,jovaned01
+Los Angeles Kings,Dustin Brown,28.0,RW,"Ithaca, NY",US,2013,browndu01
+Minnesota Wild,Mikko Koivu,29.0,C,Turku,FI,2013,koivumi01
+Montreal Canadiens,Brian Gionta,34.0,RW,"Rochester, NY",US,2013,giontbr01
+Nashville Predators,Shea Weber,27.0,D,"Sicamous, BC",CA,2013,webersh01
+New Jersey Devils,Bryce Salvador,36.0,D,"Brandon, MB",CA,2013,salvabr01
+New York Islanders,Mark Streit,35.0,D,Bern,CH,2013,streima01
+New York Rangers,Ryan Callahan,27.0,RW,"Rochester, NY",US,2013,callary01
+Ottawa Senators,Daniel Alfredsson,40.0,RW,Gothenburg,SE,2013,alfreda01
+Philadelphia Flyers,Claude Giroux,25.0,C/LW,"Hearst, ON",CA,2013,giroucl01
+Phoenix Coyotes,Shane Doan,36.0,RW,"Halkirk, AB",CA,2013,doansh01
+Pittsburgh Penguins,Sidney Crosby,25.0,C,"Cole Harbour, NS",CA,2013,crosbsi01
+San Jose Sharks,Joe Thornton,33.0,C,"London, ON",CA,2013,thornjo01
+St. Louis Blues,David Backes,28.0,C,"Minneapolis, MN",US,2013,backeda01
+Tampa Bay Lightning,Vincent Lecavalier,32.0,C,"Ile Bizard, QC",CA,2013,lecavvi01
+Toronto Maple Leafs,Dion Phaneuf,27.0,D,"Edmonton, AB",CA,2013,phanedi01
+Vancouver Canucks,Henrik Sedin,32.0,C,Ornskoldsvik,SE,2013,sedinhe01
+Washington Capitals,Alex Ovechkin,27.0,LW,Moscow,SU,2013,ovechal01
+Winnipeg Jets,Andrew Ladd,27.0,LW,"Maple Ridge, BC",CA,2013,laddan01
+Anaheim Ducks,Ryan Getzlaf,26.0,C,"Regina, SK",CA,2012,getzlry01
+Boston Bruins,Zdeno Chara,34.0,D,Trencin,CS,2012,charazd01
+Buffalo Sabres,Jason Pominville,29.0,RW,"Repentigny, QC",CA,2012,pominja01
+Calgary Flames,Jarome Iginla,34.0,RW,"Edmonton, AB",CA,2012,iginlja01
+Carolina Hurricanes,Eric Staal,27.0,C,"Thunder Bay, ON",CA,2012,staaler01
+Chicago Blackhawks,Jonathan Toews,23.0,C,"Winnipeg, MB",CA,2012,toewsjo01
+Colorado Avalanche,Milan Hejduk,35.0,RW,Usti nad Labem,CS,2012,hejdumi01
+Columbus Blue Jackets,Rick Nash,27.0,LW,"Brampton, ON",CA,2012,nashri01
+Dallas Stars,Brenden Morrow,33.0,LW,"Carlyle, SK",CA,2012,morrobr01
+Detroit Red Wings,Nicklas Lidstrom,41.0,D,Vasteras,SE,2012,lidstni01
+Edmonton Oilers,Shawn Horcoff,33.0,C,"Trail, BC",CA,2012,horcosh01
+Florida Panthers,No Captain,,,,,2012,
+Los Angeles Kings,Dustin Brown,27.0,RW,"Ithaca, NY",US,2012,browndu01
+Minnesota Wild,Mikko Koivu,28.0,C,Turku,FI,2012,koivumi01
+Montreal Canadiens,Brian Gionta,33.0,RW,"Rochester, NY",US,2012,giontbr01
+Nashville Predators,Shea Weber,26.0,D,"Sicamous, BC",CA,2012,webersh01
+New Jersey Devils,Zach Parise,27.0,LW,"Minneapolis, MN",US,2012,parisza01
+New York Islanders,Mark Streit,34.0,D,Bern,CH,2012,streima01
+New York Rangers,Ryan Callahan,26.0,RW,"Rochester, NY",US,2012,callary01
+Ottawa Senators,Daniel Alfredsson,39.0,RW,Gothenburg,SE,2012,alfreda01
+Philadelphia Flyers,Chris Pronger,37.0,D,"Dryden, ON",CA,2012,prongch01
+Phoenix Coyotes,Shane Doan,35.0,RW,"Halkirk, AB",CA,2012,doansh01
+Pittsburgh Penguins,Sidney Crosby,24.0,C,"Cole Harbour, NS",CA,2012,crosbsi01
+San Jose Sharks,Joe Thornton,32.0,C,"London, ON",CA,2012,thornjo01
+St. Louis Blues,David Backes,27.0,C,"Minneapolis, MN",US,2012,backeda01
+Tampa Bay Lightning,Vincent Lecavalier,31.0,C,"Ile Bizard, QC",CA,2012,lecavvi01
+Toronto Maple Leafs,Dion Phaneuf,26.0,D,"Edmonton, AB",CA,2012,phanedi01
+Vancouver Canucks,Henrik Sedin,31.0,C,Ornskoldsvik,SE,2012,sedinhe01
+Washington Capitals,Alex Ovechkin,26.0,LW,Moscow,SU,2012,ovechal01
+Winnipeg Jets,Andrew Ladd,26.0,LW,"Maple Ridge, BC",CA,2012,laddan01
+Anaheim Ducks,Ryan Getzlaf,25.0,C,"Regina, SK",CA,2011,getzlry01
+Atlanta Thrashers,Andrew Ladd,25.0,LW,"Maple Ridge, BC",CA,2011,laddan01
+Boston Bruins,Zdeno Chara,33.0,D,Trencin,CS,2011,charazd01
+Buffalo Sabres,Craig Rivet,36.0,D,"North Bay, ON",CA,2011,rivetcr01
+Calgary Flames,Jarome Iginla,33.0,RW,"Edmonton, AB",CA,2011,iginlja01
+Carolina Hurricanes,Eric Staal,26.0,C,"Thunder Bay, ON",CA,2011,staaler01
+Chicago Blackhawks,Jonathan Toews,22.0,C,"Winnipeg, MB",CA,2011,toewsjo01
+Colorado Avalanche,Adam Foote,39.0,D,"Toronto, ON",CA,2011,footead01
+Columbus Blue Jackets,Rick Nash,26.0,LW,"Brampton, ON",CA,2011,nashri01
+Dallas Stars,Brenden Morrow,32.0,LW,"Carlyle, SK",CA,2011,morrobr01
+Detroit Red Wings,Nicklas Lidstrom,40.0,D,Vasteras,SE,2011,lidstni01
+Edmonton Oilers,Shawn Horcoff,32.0,C,"Trail, BC",CA,2011,horcosh01
+Florida Panthers,Bryan McCabe,35.0,D,"St. Catharines, ON",CA,2011,mccabbr01
+Los Angeles Kings,Dustin Brown,26.0,RW,"Ithaca, NY",US,2011,browndu01
+Minnesota Wild,Mikko Koivu,27.0,C,Turku,FI,2011,koivumi01
+Montreal Canadiens,Brian Gionta,32.0,RW,"Rochester, NY",US,2011,giontbr01
+Nashville Predators,Shea Weber,25.0,D,"Sicamous, BC",CA,2011,webersh01
+New Jersey Devils,Jamie Langenbrunner,35.0,RW,"Cloquet, MN",US,2011,langeja01
+New York Islanders,Doug Weight,40.0,C,"Warren, MI",US,2011,weighdo01
+New York Rangers,Chris Drury,34.0,C,"Trumbull, CT",US,2011,drurych01
+Ottawa Senators,Daniel Alfredsson,38.0,RW,Gothenburg,SE,2011,alfreda01
+Philadelphia Flyers,Mike Richards,25.0,C,"Kenora, ON",CA,2011,richami02
+Phoenix Coyotes,Shane Doan,34.0,RW,"Halkirk, AB",CA,2011,doansh01
+Pittsburgh Penguins,Sidney Crosby,23.0,C,"Cole Harbour, NS",CA,2011,crosbsi01
+San Jose Sharks,Joe Thornton,31.0,C,"London, ON",CA,2011,thornjo01
+St. Louis Blues,Eric Brewer,31.0,D,"Vernon, BC",CA,2011,breweer01
+Tampa Bay Lightning,Vincent Lecavalier,30.0,C,"Ile Bizard, QC",CA,2011,lecavvi01
+Toronto Maple Leafs,Dion Phaneuf,25.0,D,"Edmonton, AB",CA,2011,phanedi01
+Vancouver Canucks,Henrik Sedin,30.0,C,Ornskoldsvik,SE,2011,sedinhe01
+Washington Capitals,Alex Ovechkin,25.0,LW,Moscow,SU,2011,ovechal01
+Anaheim Ducks,Scott Niedermayer,36.0,D,"Edmonton, AB",CA,2010,niedesc01
+Atlanta Thrashers,Ilya Kovalchuk,26.0,LW,Tver,SU,2010,kovalil01
+Boston Bruins,Zdeno Chara,32.0,D,Trencin,CS,2010,charazd01
+Buffalo Sabres,Craig Rivet,35.0,D,"North Bay, ON",CA,2010,rivetcr01
+Calgary Flames,Jarome Iginla,32.0,RW,"Edmonton, AB",CA,2010,iginlja01
+Carolina Hurricanes,Rod Brind'Amour,39.0,C,"Ottawa, ON",CA,2010,brindro01
+Carolina Hurricanes,Eric Staal,25.0,C,"Thunder Bay, ON",CA,2010,staaler01
+Chicago Blackhawks,Jonathan Toews,21.0,C,"Winnipeg, MB",CA,2010,toewsjo01
+Colorado Avalanche,Adam Foote,38.0,D,"Toronto, ON",CA,2010,footead01
+Columbus Blue Jackets,Rick Nash,25.0,LW,"Brampton, ON",CA,2010,nashri01
+Dallas Stars,Brenden Morrow,31.0,LW,"Carlyle, SK",CA,2010,morrobr01
+Detroit Red Wings,Nicklas Lidstrom,39.0,D,Vasteras,SE,2010,lidstni01
+Edmonton Oilers,Ethan Moreau,34.0,LW,"Huntsville, ON",CA,2010,moreaet01
+Florida Panthers,Bryan McCabe,34.0,D,"St. Catharines, ON",CA,2010,mccabbr01
+Los Angeles Kings,Dustin Brown,25.0,RW,"Ithaca, NY",US,2010,browndu01
+Minnesota Wild,Mikko Koivu,26.0,C,Turku,FI,2010,koivumi01
+Montreal Canadiens,No Captain,,,,,2010,
+Nashville Predators,Jason Arnott,35.0,C,"Collingwood, ON",CA,2010,arnotja01
+New Jersey Devils,Jamie Langenbrunner,34.0,RW,"Cloquet, MN",US,2010,langeja01
+New York Islanders,Doug Weight,39.0,C,"Warren, MI",US,2010,weighdo01
+New York Rangers,Chris Drury,33.0,C,"Trumbull, CT",US,2010,drurych01
+Ottawa Senators,Daniel Alfredsson,37.0,RW,Gothenburg,SE,2010,alfreda01
+Philadelphia Flyers,Mike Richards,24.0,C,"Kenora, ON",CA,2010,richami02
+Phoenix Coyotes,Shane Doan,33.0,RW,"Halkirk, AB",CA,2010,doansh01
+Pittsburgh Penguins,Sidney Crosby,22.0,C,"Cole Harbour, NS",CA,2010,crosbsi01
+San Jose Sharks,Rob Blake,40.0,D,"Simcoe, ON",CA,2010,blakero01
+St. Louis Blues,Eric Brewer,30.0,D,"Vernon, BC",CA,2010,breweer01
+Tampa Bay Lightning,Vincent Lecavalier,29.0,C,"Ile Bizard, QC",CA,2010,lecavvi01
+Toronto Maple Leafs,No Captain,,,,,2010,
+Vancouver Canucks,Roberto Luongo,30.0,G,"Montreal, QC",CA,2010,luongro01
+Washington Capitals,Chris Clark,33.0,RW,"South Windsor, CT",US,2010,clarkch01
+Washington Capitals,Alex Ovechkin,24.0,LW,Moscow,SU,2010,ovechal01
+Anaheim Ducks,Scott Niedermayer,35.0,D,"Edmonton, AB",CA,2009,niedesc01
+Atlanta Thrashers,Ilya Kovalchuk,25.0,LW,Tver,SU,2009,kovalil01
+Boston Bruins,Zdeno Chara,31.0,D,Trencin,CS,2009,charazd01
+Buffalo Sabres,Craig Rivet,34.0,D,"North Bay, ON",CA,2009,rivetcr01
+Calgary Flames,Jarome Iginla,31.0,RW,"Edmonton, AB",CA,2009,iginlja01
+Carolina Hurricanes,Rod Brind'Amour,38.0,C,"Ottawa, ON",CA,2009,brindro01
+Chicago Blackhawks,Jonathan Toews,20.0,C,"Winnipeg, MB",CA,2009,toewsjo01
+Colorado Avalanche,Joe Sakic,39.0,C,"Burnaby, BC",CA,2009,sakicjo01
+Columbus Blue Jackets,Rick Nash,24.0,LW,"Brampton, ON",CA,2009,nashri01
+Dallas Stars,Brenden Morrow,30.0,LW,"Carlyle, SK",CA,2009,morrobr01
+Detroit Red Wings,Nicklas Lidstrom,38.0,D,Vasteras,SE,2009,lidstni01
+Edmonton Oilers,Ethan Moreau,33.0,LW,"Huntsville, ON",CA,2009,moreaet01
+Florida Panthers,No Captain,,,,,2009,
+Los Angeles Kings,Dustin Brown,24.0,RW,"Ithaca, NY",US,2009,browndu01
+Minnesota Wild,Mikko Koivu,25.0,C,Turku,FI,2009,koivumi01
+Minnesota Wild,Owen Nolan,36.0,RW,Belfast,GB,2009,nolanow01
+Montreal Canadiens,Saku Koivu,34.0,C,Turku,FI,2009,koivusa01
+Nashville Predators,Jason Arnott,34.0,C,"Collingwood, ON",CA,2009,arnotja01
+New Jersey Devils,Jamie Langenbrunner,33.0,RW,"Cloquet, MN",US,2009,langeja01
+New York Islanders,Bill Guerin,38.0,RW,"Worcester, MA",US,2009,gueribi01
+New York Rangers,Chris Drury,32.0,C,"Trumbull, CT",US,2009,drurych01
+Ottawa Senators,Daniel Alfredsson,36.0,RW,Gothenburg,SE,2009,alfreda01
+Philadelphia Flyers,Mike Richards,23.0,C,"Kenora, ON",CA,2009,richami02
+Phoenix Coyotes,Shane Doan,32.0,RW,"Halkirk, AB",CA,2009,doansh01
+Pittsburgh Penguins,Sidney Crosby,21.0,C,"Cole Harbour, NS",CA,2009,crosbsi01
+San Jose Sharks,Patrick Marleau,29.0,C,"Aneroid, SK",CA,2009,marlepa01
+St. Louis Blues,Eric Brewer,29.0,D,"Vernon, BC",CA,2009,breweer01
+Tampa Bay Lightning,Vincent Lecavalier,28.0,C,"Ile Bizard, QC",CA,2009,lecavvi01
+Toronto Maple Leafs,No Captain,,,,,2009,
+Vancouver Canucks,Roberto Luongo,29.0,G,"Montreal, QC",CA,2009,luongro01
+Washington Capitals,Chris Clark,32.0,RW,"South Windsor, CT",US,2009,clarkch01
+Anaheim Ducks,Chris Pronger,33.0,D,"Dryden, ON",CA,2008,prongch01
+Atlanta Thrashers,Bobby Holik,37.0,C,Jihlava,CS,2008,holikbo01
+Boston Bruins,Zdeno Chara,30.0,D,Trencin,CS,2008,charazd01
+Buffalo Sabres,Brian Campbell,28.0,D,"Strathroy, ON",CA,2008,campbbr02
+Buffalo Sabres,Jochen Hecht,30.0,LW,Mannheim,DE,2008,hechtjo01
+Buffalo Sabres,Toni Lydman,30.0,D,Lahti,FI,2008,lydmato01
+Buffalo Sabres,Jason Pominville,25.0,RW,"Repentigny, QC",CA,2008,pominja01
+Buffalo Sabres,Jaroslav Spacek,33.0,D,Rokycany,CS,2008,spaceja01
+Calgary Flames,Jarome Iginla,30.0,RW,"Edmonton, AB",CA,2008,iginlja01
+Carolina Hurricanes,Rod Brind'Amour,37.0,C,"Ottawa, ON",CA,2008,brindro01
+Chicago Blackhawks,No Captain,,,,,2008,
+Colorado Avalanche,Joe Sakic,38.0,C,"Burnaby, BC",CA,2008,sakicjo01
+Columbus Blue Jackets,Adam Foote,36.0,D,"Toronto, ON",CA,2008,footead01
+Columbus Blue Jackets,Rick Nash,23.0,LW,"Brampton, ON",CA,2008,nashri01
+Dallas Stars,Brenden Morrow,29.0,LW,"Carlyle, SK",CA,2008,morrobr01
+Detroit Red Wings,Nicklas Lidstrom,37.0,D,Vasteras,SE,2008,lidstni01
+Edmonton Oilers,Ethan Moreau,32.0,LW,"Huntsville, ON",CA,2008,moreaet01
+Florida Panthers,Olli Jokinen,29.0,C,Kuopio,FI,2008,jokinol01
+Los Angeles Kings,Rob Blake,38.0,D,"Simcoe, ON",CA,2008,blakero01
+Minnesota Wild,Pavol Demitra,33.0,LW,Dubnica,CS,2008,demitpa01
+Minnesota Wild,Marian Gaborik,25.0,RW,Trencin,CS,2008,gaborma01
+Minnesota Wild,Mark Parrish,30.0,RW,"Bloomington, MN",US,2008,parrima01
+Minnesota Wild,Brian Rolston,34.0,C,"Flint, MI",US,2008,rolstbr01
+Minnesota Wild,Nick Schultz,25.0,D,"Strasbourg, SK",CA,2008,schulni01
+Montreal Canadiens,Saku Koivu,33.0,C,Turku,FI,2008,koivusa01
+Nashville Predators,Jason Arnott,33.0,C,"Collingwood, ON",CA,2008,arnotja01
+New Jersey Devils,Patrik Elias,31.0,LW,Trebic,CS,2008,eliaspa01
+New Jersey Devils,Jamie Langenbrunner,32.0,RW,"Cloquet, MN",US,2008,langeja01
+New York Islanders,Bill Guerin,37.0,RW,"Worcester, MA",US,2008,gueribi01
+New York Rangers,Jaromir Jagr,35.0,RW,Kladno,CS,2008,jagrja01
+Ottawa Senators,Daniel Alfredsson,35.0,RW,Gothenburg,SE,2008,alfreda01
+Philadelphia Flyers,Jason Smith,34.0,D,"Calgary, AB",CA,2008,smithja01
+Phoenix Coyotes,Shane Doan,31.0,RW,"Halkirk, AB",CA,2008,doansh01
+Pittsburgh Penguins,Sidney Crosby,20.0,C,"Cole Harbour, NS",CA,2008,crosbsi01
+San Jose Sharks,Patrick Marleau,28.0,C,"Aneroid, SK",CA,2008,marlepa01
+St. Louis Blues,Eric Brewer,28.0,D,"Vernon, BC",CA,2008,breweer01
+Tampa Bay Lightning,Tim Taylor,38.0,C,"Stratford, ON",CA,2008,tayloti01
+Toronto Maple Leafs,Mats Sundin,36.0,C,Bromma,SE,2008,sundima01
+Vancouver Canucks,Markus Naslund,34.0,LW,Ornskoldsvik,SE,2008,nasluma02
+Washington Capitals,Chris Clark,31.0,RW,"South Windsor, CT",US,2008,clarkch01
+Anaheim Ducks,Scott Niedermayer,33.0,D,"Edmonton, AB",CA,2007,niedesc01
+Atlanta Thrashers,Scott Mellanby,40.0,RW,"Montreal, QC",CA,2007,mellasc01
+Boston Bruins,Zdeno Chara,29.0,D,Trencin,CS,2007,charazd01
+Buffalo Sabres,Daniel Briere,29.0,C,"Gatineau, QC",CA,2007,brierda01
+Buffalo Sabres,Chris Drury,30.0,C,"Trumbull, CT",US,2007,drurych01
+Calgary Flames,Jarome Iginla,29.0,RW,"Edmonton, AB",CA,2007,iginlja01
+Carolina Hurricanes,Rod Brind'Amour,36.0,C,"Ottawa, ON",CA,2007,brindro01
+Chicago Blackhawks,Adrian Aucoin,33.0,D,"Ottawa, ON",CA,2007,aucoiad01
+Chicago Blackhawks,Martin Lapointe,33.0,RW,"Ville St-Pierre, QC",CA,2007,lapoima01
+Colorado Avalanche,Joe Sakic,37.0,C,"Burnaby, BC",CA,2007,sakicjo01
+Columbus Blue Jackets,Adam Foote,35.0,D,"Toronto, ON",CA,2007,footead01
+Dallas Stars,Brenden Morrow,28.0,LW,"Carlyle, SK",CA,2007,morrobr01
+Detroit Red Wings,Nicklas Lidstrom,36.0,D,Vasteras,SE,2007,lidstni01
+Edmonton Oilers,Jason Smith,33.0,D,"Calgary, AB",CA,2007,smithja01
+Florida Panthers,Olli Jokinen,28.0,C,Kuopio,FI,2007,jokinol01
+Los Angeles Kings,Mattias Norstrom,35.0,D,Stockholm,SE,2007,norstma01
+Minnesota Wild,Keith Carney,36.0,D,"Providence, RI",US,2007,carneke01
+Minnesota Wild,Mark Parrish,29.0,RW,"Bloomington, MN",US,2007,parrima01
+Minnesota Wild,Brian Rolston,33.0,C,"Flint, MI",US,2007,rolstbr01
+Montreal Canadiens,Saku Koivu,32.0,C,Turku,FI,2007,koivusa01
+Nashville Predators,Kimmo Timonen,31.0,D,Kuopio,FI,2007,timonki01
+New Jersey Devils,Patrik Elias,30.0,LW,Trebic,CS,2007,eliaspa01
+New York Islanders,Alexei Yashin,33.0,C,Sverdlovsk,SU,2007,yashial01
+New York Rangers,Jaromir Jagr,34.0,RW,Kladno,CS,2007,jagrja01
+Ottawa Senators,Daniel Alfredsson,34.0,RW,Gothenburg,SE,2007,alfreda01
+Philadelphia Flyers,Peter Forsberg,33.0,C,Ornskoldsvik,SE,2007,forsbpe01
+Phoenix Coyotes,Shane Doan,30.0,RW,"Halkirk, AB",CA,2007,doansh01
+Pittsburgh Penguins,No Captain,,,,,2007,
+San Jose Sharks,Patrick Marleau,27.0,C,"Aneroid, SK",CA,2007,marlepa01
+St. Louis Blues,Dallas Drake,37.0,RW,"Trail, BC",CA,2007,drakeda01
+Tampa Bay Lightning,Tim Taylor,37.0,C,"Stratford, ON",CA,2007,tayloti01
+Toronto Maple Leafs,Mats Sundin,35.0,C,Bromma,SE,2007,sundima01
+Vancouver Canucks,Markus Naslund,33.0,LW,Ornskoldsvik,SE,2007,nasluma02
+Washington Capitals,Chris Clark,30.0,RW,"South Windsor, CT",US,2007,clarkch01
+Atlanta Thrashers,Scott Mellanby,39.0,RW,"Montreal, QC",CA,2006,mellasc01
+Boston Bruins,Joe Thornton,26.0,C,"London, ON",CA,2006,thornjo01
+Buffalo Sabres,Daniel Briere,28.0,C,"Gatineau, QC",CA,2006,brierda01
+Buffalo Sabres,Chris Drury,29.0,C,"Trumbull, CT",US,2006,drurych01
+Calgary Flames,Jarome Iginla,28.0,RW,"Edmonton, AB",CA,2006,iginlja01
+Carolina Hurricanes,Rod Brind'Amour,35.0,C,"Ottawa, ON",CA,2006,brindro01
+Chicago Blackhawks,Adrian Aucoin,32.0,D,"Ottawa, ON",CA,2006,aucoiad01
+Chicago Blackhawks,Martin Lapointe,32.0,RW,"Ville St-Pierre, QC",CA,2006,lapoima01
+Colorado Avalanche,Joe Sakic,36.0,C,"Burnaby, BC",CA,2006,sakicjo01
+Columbus Blue Jackets,Adam Foote,34.0,D,"Toronto, ON",CA,2006,footead01
+Columbus Blue Jackets,Luke Richardson,36.0,D,"Ottawa, ON",CA,2006,richalu01
+Dallas Stars,Mike Modano,35.0,C,"Livonia, MI",US,2006,modanmi01
+Detroit Red Wings,Steve Yzerman,40.0,C,"Cranbrook, BC",CA,2006,yzermst01
+Edmonton Oilers,Jason Smith,32.0,D,"Calgary, AB",CA,2006,smithja01
+Florida Panthers,Olli Jokinen,27.0,C,Kuopio,FI,2006,jokinol01
+Los Angeles Kings,Mattias Norstrom,34.0,D,Stockholm,SE,2006,norstma01
+Mighty Ducks of Anaheim,Scott Niedermayer,32.0,D,"Edmonton, AB",CA,2006,niedesc01
+Minnesota Wild,Alex Henry,26.0,D,"Elliot Lake, ON",CA,2006,henryal01
+Minnesota Wild,Filip Kuba,29.0,D,Ostrava,CS,2006,kubafi01
+Minnesota Wild,Willie Mitchell,28.0,D,"Port McNeill, BC",CA,2006,mitchwi01
+Minnesota Wild,Brian Rolston,32.0,C,"Flint, MI",US,2006,rolstbr01
+Minnesota Wild,Wes Walz,35.0,C,"Calgary, AB",CA,2006,walzwe01
+Montreal Canadiens,Saku Koivu,31.0,C,Turku,FI,2006,koivusa01
+Nashville Predators,Greg Johnson,34.0,C,"Thunder Bay, ON",CA,2006,johnsgr02
+New Jersey Devils,No Captain,,,,,2006,
+New York Islanders,Alexei Yashin,32.0,C,Sverdlovsk,SU,2006,yashial01
+New York Rangers,No Captain,,,,,2006,
+Ottawa Senators,Daniel Alfredsson,33.0,RW,Gothenburg,SE,2006,alfreda01
+Philadelphia Flyers,Derian Hatcher,33.0,D,"Sterling Hts., MI",US,2006,hatchde01
+Philadelphia Flyers,Keith Primeau,34.0,C,"Toronto, ON",CA,2006,primeke02
+Phoenix Coyotes,Shane Doan,29.0,RW,"Halkirk, AB",CA,2006,doansh01
+Pittsburgh Penguins,Mario Lemieux,40.0,C,"Montreal, QC",CA,2006,lemiema01
+Pittsburgh Penguins,No Captain,,,,,2006,
+San Jose Sharks,Patrick Marleau,26.0,C,"Aneroid, SK",CA,2006,marlepa01
+St. Louis Blues,Dallas Drake,36.0,RW,"Trail, BC",CA,2006,drakeda01
+Tampa Bay Lightning,Dave Andreychuk,42.0,LW,"Hamilton, ON",CA,2006,andreda01
+Tampa Bay Lightning,No Captain,,,,,2006,
+Toronto Maple Leafs,Mats Sundin,34.0,C,Bromma,SE,2006,sundima01
+Vancouver Canucks,Markus Naslund,32.0,LW,Ornskoldsvik,SE,2006,nasluma02
+Washington Capitals,Jeff Halpern,29.0,C,"Washington, DC",US,2006,halpeje01
+Atlanta Thrashers,Shawn McEachern,34.0,RW,"Waltham, MA",US,2004,mceacsh01
+Boston Bruins,Joe Thornton,24.0,C,"London, ON",CA,2004,thornjo01
+Buffalo Sabres,Daniel Briere,26.0,C,"Gatineau, QC",CA,2004,brierda01
+Buffalo Sabres,Chris Drury,27.0,C,"Trumbull, CT",US,2004,drurych01
+Buffalo Sabres,J.P. Dumont,25.0,RW,"Montreal, QC",CA,2004,dumonjp01
+Buffalo Sabres,James Patrick,40.0,D,"Winnipeg, MB",CA,2004,patrija01
+Buffalo Sabres,Miroslav Satan,29.0,LW,Topolcany,CS,2004,satanmi01
+Calgary Flames,Jarome Iginla,26.0,RW,"Edmonton, AB",CA,2004,iginlja01
+Carolina Hurricanes,Ron Francis,40.0,C,"Sault Ste. Marie, ON",CA,2004,francro01
+Chicago Blackhawks,Alex Zhamnov,33.0,C,Moscow,SU,2004,zhamnal01
+Colorado Avalanche,Joe Sakic,34.0,C,"Burnaby, BC",CA,2004,sakicjo01
+Columbus Blue Jackets,Luke Richardson,34.0,D,"Ottawa, ON",CA,2004,richalu01
+Dallas Stars,Mike Modano,33.0,C,"Livonia, MI",US,2004,modanmi01
+Detroit Red Wings,Steve Yzerman,38.0,C,"Cranbrook, BC",CA,2004,yzermst01
+Edmonton Oilers,Jason Smith,30.0,D,"Calgary, AB",CA,2004,smithja01
+Florida Panthers,Olli Jokinen,25.0,C,Kuopio,FI,2004,jokinol01
+Los Angeles Kings,Mattias Norstrom,32.0,D,Stockholm,SE,2004,norstma01
+Mighty Ducks of Anaheim,Steve Rucchin,32.0,C,"Thunder Bay, ON",CA,2004,rucchst01
+Minnesota Wild,Brad Bombardir,31.0,D,"Powell River, BC",CA,2004,bombabr01
+Minnesota Wild,Brad Brown,28.0,D,"Baie Verte, NL",CA,2004,brownbr01
+Minnesota Wild,Andrew Brunette,30.0,LW,"Sudbury, ON",CA,2004,brunean01
+Minnesota Wild,Jim Dowd,35.0,C,"Brick, NJ",US,2004,dowdji01
+Minnesota Wild,Richard Park,27.0,RW,Seoul,KR,2004,parkri01
+Montreal Canadiens,Saku Koivu,29.0,C,Turku,FI,2004,koivusa01
+Nashville Predators,Greg Johnson,32.0,C,"Thunder Bay, ON",CA,2004,johnsgr02
+New Jersey Devils,Scott Niedermayer,30.0,D,"Edmonton, AB",CA,2004,niedesc01
+New Jersey Devils,Scott Stevens,39.0,D,"Kitchener, ON",CA,2004,stevesc01
+New York Islanders,Michael Peca,29.0,C,"Toronto, ON",CA,2004,pecami01
+New York Rangers,Mark Messier,43.0,LW/C,"Edmonton, AB",CA,2004,messima01
+Ottawa Senators,Daniel Alfredsson,31.0,RW,Gothenburg,SE,2004,alfreda01
+Philadelphia Flyers,Keith Primeau,32.0,C,"Toronto, ON",CA,2004,primeke02
+Phoenix Coyotes,Shane Doan,27.0,RW,"Halkirk, AB",CA,2004,doansh01
+Pittsburgh Penguins,Mario Lemieux,38.0,C,"Montreal, QC",CA,2004,lemiema01
+San Jose Sharks,Vincent Damphousse,36.0,C/LW,"Montreal, QC",CA,2004,damphvi01
+San Jose Sharks,Patrick Marleau,24.0,C,"Aneroid, SK",CA,2004,marlepa01
+San Jose Sharks,Alyn McCauley,26.0,C,"Brockville, ON",CA,2004,mccaual01
+San Jose Sharks,Mike Ricci,32.0,C,"Scarborough, ON",CA,2004,riccimi01
+St. Louis Blues,Al MacInnis,40.0,D,"Inverness, NS",CA,2004,macinal01
+Tampa Bay Lightning,Dave Andreychuk,40.0,LW,"Hamilton, ON",CA,2004,andreda01
+Toronto Maple Leafs,Mats Sundin,32.0,C,Bromma,SE,2004,sundima01
+Vancouver Canucks,Markus Naslund,30.0,LW,Ornskoldsvik,SE,2004,nasluma02
+Washington Capitals,Steve Konowalchuk,31.0,LW,"Salt Lake City, UT",US,2004,konowst01
+Atlanta Thrashers,No Captain,,,,,2003,
+Boston Bruins,Joe Thornton,23.0,C,"London, ON",CA,2003,thornjo01
+Buffalo Sabres,Stu Barnes,32.0,C,"Spruce Grove, AB",CA,2003,barnest01
+Calgary Flames,Bob Boughner,31.0,D,"Windsor, ON",CA,2003,boughbo01
+Calgary Flames,Craig Conroy,31.0,C,"Potsdam, NY",US,2003,conrocr01
+Carolina Hurricanes,Ron Francis,39.0,C,"Sault Ste. Marie, ON",CA,2003,francro01
+Chicago Blackhawks,Alex Zhamnov,32.0,C,Moscow,SU,2003,zhamnal01
+Colorado Avalanche,Joe Sakic,33.0,C,"Burnaby, BC",CA,2003,sakicjo01
+Columbus Blue Jackets,Ray Whitney,30.0,LW,"Fort Saskatchewan, AB",CA,2003,whitnra01
+Dallas Stars,Derian Hatcher,30.0,D,"Sterling Hts., MI",US,2003,hatchde01
+Detroit Red Wings,Steve Yzerman,37.0,C,"Cranbrook, BC",CA,2003,yzermst01
+Edmonton Oilers,Jason Smith,29.0,D,"Calgary, AB",CA,2003,smithja01
+Florida Panthers,No Captain,,,,,2003,
+Los Angeles Kings,Mattias Norstrom,31.0,D,Stockholm,SE,2003,norstma01
+Mighty Ducks of Anaheim,Paul Kariya,28.0,LW,"Vancouver, BC",CA,2003,kariypa01
+Minnesota Wild,Brad Bombardir,30.0,D,"Powell River, BC",CA,2003,bombabr01
+Minnesota Wild,Matt Johnson,27.0,LW,"Welland, ON",CA,2003,johnsma03
+Minnesota Wild,Sergei Zholtok,30.0,C,Riga,SU,2003,zholtse01
+Montreal Canadiens,Saku Koivu,28.0,C,Turku,FI,2003,koivusa01
+Nashville Predators,Greg Johnson,31.0,C,"Thunder Bay, ON",CA,2003,johnsgr02
+New Jersey Devils,Scott Stevens,38.0,D,"Kitchener, ON",CA,2003,stevesc01
+New York Islanders,Michael Peca,28.0,C,"Toronto, ON",CA,2003,pecami01
+New York Rangers,Mark Messier,42.0,LW/C,"Edmonton, AB",CA,2003,messima01
+Ottawa Senators,Daniel Alfredsson,30.0,RW,Gothenburg,SE,2003,alfreda01
+Philadelphia Flyers,Keith Primeau,31.0,C,"Toronto, ON",CA,2003,primeke02
+Phoenix Coyotes,Teppo Numminen,34.0,D,Tampere,FI,2003,nummite01
+Pittsburgh Penguins,Mario Lemieux,37.0,C,"Montreal, QC",CA,2003,lemiema01
+San Jose Sharks,Owen Nolan,30.0,RW,Belfast,GB,2003,nolanow01
+St. Louis Blues,Al MacInnis,39.0,D,"Inverness, NS",CA,2003,macinal01
+Tampa Bay Lightning,Dave Andreychuk,39.0,LW,"Hamilton, ON",CA,2003,andreda01
+Toronto Maple Leafs,Mats Sundin,31.0,C,Bromma,SE,2003,sundima01
+Vancouver Canucks,Markus Naslund,29.0,LW,Ornskoldsvik,SE,2003,nasluma02
+Washington Capitals,Steve Konowalchuk,30.0,LW,"Salt Lake City, UT",US,2003,konowst01
+Atlanta Thrashers,Ray Ferraro,37.0,C,"Trail, BC",CA,2002,ferrara01
+Boston Bruins,No Captain,,,,,2002,
+Buffalo Sabres,Stu Barnes,31.0,C,"Spruce Grove, AB",CA,2002,barnest01
+Calgary Flames,Bob Boughner,30.0,D,"Windsor, ON",CA,2002,boughbo01
+Calgary Flames,Craig Conroy,30.0,C,"Potsdam, NY",US,2002,conrocr01
+Calgary Flames,Dave Lowry,36.0,LW,"Sudbury, ON",CA,2002,lowryda01
+Carolina Hurricanes,Ron Francis,38.0,C,"Sault Ste. Marie, ON",CA,2002,francro01
+Chicago Blackhawks,Tony Amonte,31.0,RW,"Hingham, MA",US,2002,amontto01
+Colorado Avalanche,Joe Sakic,32.0,C,"Burnaby, BC",CA,2002,sakicjo01
+Columbus Blue Jackets,Lyle Odelein,33.0,D,"Quill Lake, SK",CA,2002,odelely01
+Dallas Stars,Derian Hatcher,29.0,D,"Sterling Hts., MI",US,2002,hatchde01
+Detroit Red Wings,Steve Yzerman,36.0,C,"Cranbrook, BC",CA,2002,yzermst01
+Edmonton Oilers,Jason Smith,28.0,D,"Calgary, AB",CA,2002,smithja01
+Florida Panthers,Pavel Bure,30.0,RW,Moscow,SU,2002,burepa01
+Los Angeles Kings,Mattias Norstrom,30.0,D,Stockholm,SE,2002,norstma01
+Mighty Ducks of Anaheim,Paul Kariya,27.0,LW,"Vancouver, BC",CA,2002,kariypa01
+Minnesota Wild,Brad Brown,26.0,D,"Baie Verte, NL",CA,2002,brownbr01
+Minnesota Wild,Andrew Brunette,28.0,LW,"Sudbury, ON",CA,2002,brunean01
+Minnesota Wild,Jim Dowd,33.0,C,"Brick, NJ",US,2002,dowdji01
+Minnesota Wild,Filip Kuba,25.0,D,Ostrava,CS,2002,kubafi01
+Montreal Canadiens,Saku Koivu,27.0,C,Turku,FI,2002,koivusa01
+Nashville Predators,Tom Fitzgerald,33.0,RW,"Billerica, MA",US,2002,fitzgto01
+New Jersey Devils,Scott Stevens,37.0,D,"Kitchener, ON",CA,2002,stevesc01
+New York Islanders,Michael Peca,27.0,C,"Toronto, ON",CA,2002,pecami01
+New York Rangers,Mark Messier,41.0,LW/C,"Edmonton, AB",CA,2002,messima01
+Ottawa Senators,Daniel Alfredsson,29.0,RW,Gothenburg,SE,2002,alfreda01
+Philadelphia Flyers,Eric Desjardins,32.0,D,"Rouyn, QC",CA,2002,desjaer01
+Philadelphia Flyers,Keith Primeau,30.0,C,"Toronto, ON",CA,2002,primeke02
+Phoenix Coyotes,Teppo Numminen,33.0,D,Tampere,FI,2002,nummite01
+Pittsburgh Penguins,Mario Lemieux,36.0,C,"Montreal, QC",CA,2002,lemiema01
+San Jose Sharks,Owen Nolan,29.0,RW,Belfast,GB,2002,nolanow01
+St. Louis Blues,Chris Pronger,27.0,D,"Dryden, ON",CA,2002,prongch01
+Tampa Bay Lightning,No Captain,,,,,2002,
+Toronto Maple Leafs,Mats Sundin,30.0,C,Bromma,SE,2002,sundima01
+Vancouver Canucks,Markus Naslund,28.0,LW,Ornskoldsvik,SE,2002,nasluma02
+Washington Capitals,Steve Konowalchuk,29.0,LW,"Salt Lake City, UT",US,2002,konowst01
+Washington Capitals,Brendan Witt,26.0,D,"Humboldt, SK",CA,2002,wittbr01
+Atlanta Thrashers,Steve Staios,27.0,D,"Hamilton, ON",CA,2001,staiost01
+Boston Bruins,Jason Allison,25.0,C,"North York, ON",CA,2001,allisja02
+Buffalo Sabres,No Captain,,,,,2001,
+Calgary Flames,Dave Lowry,35.0,LW,"Sudbury, ON",CA,2001,lowryda01
+Calgary Flames,Steve Smith,37.0,D,Glasgow,GB,2001,smithst05
+Carolina Hurricanes,Ron Francis,37.0,C,"Sault Ste. Marie, ON",CA,2001,francro01
+Chicago Blackhawks,Tony Amonte,30.0,RW,"Hingham, MA",US,2001,amontto01
+Colorado Avalanche,Joe Sakic,31.0,C,"Burnaby, BC",CA,2001,sakicjo01
+Columbus Blue Jackets,Lyle Odelein,32.0,D,"Quill Lake, SK",CA,2001,odelely01
+Dallas Stars,Derian Hatcher,28.0,D,"Sterling Hts., MI",US,2001,hatchde01
+Detroit Red Wings,Steve Yzerman,35.0,C,"Cranbrook, BC",CA,2001,yzermst01
+Edmonton Oilers,Doug Weight,30.0,C,"Warren, MI",US,2001,weighdo01
+Florida Panthers,Scott Mellanby,34.0,RW,"Montreal, QC",CA,2001,mellasc01
+Los Angeles Kings,Rob Blake,31.0,D,"Simcoe, ON",CA,2001,blakero01
+Mighty Ducks of Anaheim,Paul Kariya,26.0,LW,"Vancouver, BC",CA,2001,kariypa01
+Minnesota Wild,Brad Bombardir,28.0,D,"Powell River, BC",CA,2001,bombabr01
+Minnesota Wild,Darby Hendrickson,28.0,C,"Richfield, MN",US,2001,hendrda01
+Minnesota Wild,Sean O'Donnell,29.0,D,"Ottawa, ON",CA,2001,odonnse01
+Minnesota Wild,Scott Pellerin,31.0,LW,"Shediac, NB",CA,2001,pellesc01
+Minnesota Wild,Wes Walz,30.0,C,"Calgary, AB",CA,2001,walzwe01
+Montreal Canadiens,Saku Koivu,26.0,C,Turku,FI,2001,koivusa01
+Nashville Predators,Tom Fitzgerald,32.0,RW,"Billerica, MA",US,2001,fitzgto01
+New Jersey Devils,Scott Stevens,36.0,D,"Kitchener, ON",CA,2001,stevesc01
+New York Islanders,Kenny Jonsson,26.0,D,Angelholm,SE,2001,jonsske01
+New York Rangers,Mark Messier,40.0,LW/C,"Edmonton, AB",CA,2001,messima01
+Ottawa Senators,Daniel Alfredsson,28.0,RW,Gothenburg,SE,2001,alfreda01
+Philadelphia Flyers,Eric Desjardins,31.0,D,"Rouyn, QC",CA,2001,desjaer01
+Phoenix Coyotes,Keith Tkachuk,28.0,LW,"Melrose, MA",US,2001,tkachke01
+Pittsburgh Penguins,Jaromir Jagr,28.0,RW,Kladno,CS,2001,jagrja01
+San Jose Sharks,Owen Nolan,28.0,RW,Belfast,GB,2001,nolanow01
+St. Louis Blues,Chris Pronger,26.0,D,"Dryden, ON",CA,2001,prongch01
+Tampa Bay Lightning,Vincent Lecavalier,20.0,C,"Ile Bizard, QC",CA,2001,lecavvi01
+Toronto Maple Leafs,Mats Sundin,29.0,C,Bromma,SE,2001,sundima01
+Vancouver Canucks,Markus Naslund,27.0,LW,Ornskoldsvik,SE,2001,nasluma02
+Washington Capitals,Adam Oates,38.0,C,"Weston, ON",CA,2001,oatesad01
+Atlanta Thrashers,Kelly Buchberger,33.0,RW,"Langenburg, SK",CA,2000,buchbke01
+Boston Bruins,Ray Bourque,39.0,D,"Montreal, QC",CA,2000,bourqra01
+Buffalo Sabres,Michael Peca,25.0,C,"Toronto, ON",CA,2000,pecami01
+Calgary Flames,Steve Smith,36.0,D,Glasgow,GB,2000,smithst05
+Carolina Hurricanes,Ron Francis,36.0,C,"Sault Ste. Marie, ON",CA,2000,francro01
+Carolina Hurricanes,Keith Primeau,28.0,C,"Toronto, ON",CA,2000,primeke02
+Chicago Blackhawks,Doug Gilmour,36.0,C,"Kingston, ON",CA,2000,gilmodo01
+Colorado Avalanche,Joe Sakic,30.0,C,"Burnaby, BC",CA,2000,sakicjo01
+Dallas Stars,Derian Hatcher,27.0,D,"Sterling Hts., MI",US,2000,hatchde01
+Detroit Red Wings,Steve Yzerman,34.0,C,"Cranbrook, BC",CA,2000,yzermst01
+Edmonton Oilers,Doug Weight,29.0,C,"Warren, MI",US,2000,weighdo01
+Florida Panthers,Scott Mellanby,33.0,RW,"Montreal, QC",CA,2000,mellasc01
+Los Angeles Kings,Rob Blake,30.0,D,"Simcoe, ON",CA,2000,blakero01
+Mighty Ducks of Anaheim,Paul Kariya,25.0,LW,"Vancouver, BC",CA,2000,kariypa01
+Montreal Canadiens,Saku Koivu,25.0,C,Turku,FI,2000,koivusa01
+Nashville Predators,Tom Fitzgerald,31.0,RW,"Billerica, MA",US,2000,fitzgto01
+New Jersey Devils,Scott Stevens,35.0,D,"Kitchener, ON",CA,2000,stevesc01
+New York Islanders,Kenny Jonsson,25.0,D,Angelholm,SE,2000,jonsske01
+New York Rangers,Brian Leetch,31.0,D,"Corpus Christi, TX",US,2000,leetcbr01
+Ottawa Senators,Daniel Alfredsson,27.0,RW,Gothenburg,SE,2000,alfreda01
+Philadelphia Flyers,Eric Desjardins,30.0,D,"Rouyn, QC",CA,2000,desjaer01
+Philadelphia Flyers,Eric Lindros,26.0,C,"London, ON",CA,2000,lindrer01
+Phoenix Coyotes,Keith Tkachuk,27.0,LW,"Melrose, MA",US,2000,tkachke01
+Pittsburgh Penguins,Jaromir Jagr,27.0,RW,Kladno,CS,2000,jagrja01
+San Jose Sharks,Owen Nolan,27.0,RW,Belfast,GB,2000,nolanow01
+St. Louis Blues,Chris Pronger,25.0,D,"Dryden, ON",CA,2000,prongch01
+Tampa Bay Lightning,Chris Gratton,24.0,C,"Brantford, ON",CA,2000,grattch01
+Tampa Bay Lightning,Bill Houlder,32.0,D,"Thunder Bay, ON",CA,2000,houldbi01
+Tampa Bay Lightning,Vincent Lecavalier,19.0,C,"Ile Bizard, QC",CA,2000,lecavvi01
+Toronto Maple Leafs,Mats Sundin,28.0,C,Bromma,SE,2000,sundima01
+Vancouver Canucks,Mark Messier,39.0,LW/C,"Edmonton, AB",CA,2000,messima01
+Washington Capitals,Adam Oates,37.0,C,"Weston, ON",CA,2000,oatesad01
+Boston Bruins,Ray Bourque,38.0,D,"Montreal, QC",CA,1999,bourqra01
+Buffalo Sabres,Michael Peca,24.0,C,"Toronto, ON",CA,1999,pecami01
+Calgary Flames,Todd Simpson,25.0,D,"North Vancouver, BC",CA,1999,simpsto01
+Carolina Hurricanes,Keith Primeau,27.0,C,"Toronto, ON",CA,1999,primeke02
+Chicago Blackhawks,Chris Chelios,37.0,D,"Chicago, IL",US,1999,chelich01
+Colorado Avalanche,Joe Sakic,29.0,C,"Burnaby, BC",CA,1999,sakicjo01
+Dallas Stars,Derian Hatcher,26.0,D,"Sterling Hts., MI",US,1999,hatchde01
+Detroit Red Wings,Steve Yzerman,33.0,C,"Cranbrook, BC",CA,1999,yzermst01
+Edmonton Oilers,Kelly Buchberger,32.0,RW,"Langenburg, SK",CA,1999,buchbke01
+Florida Panthers,Scott Mellanby,32.0,RW,"Montreal, QC",CA,1999,mellasc01
+Los Angeles Kings,Rob Blake,29.0,D,"Simcoe, ON",CA,1999,blakero01
+Mighty Ducks of Anaheim,Paul Kariya,24.0,LW,"Vancouver, BC",CA,1999,kariypa01
+Montreal Canadiens,Vincent Damphousse,31.0,C/LW,"Montreal, QC",CA,1999,damphvi01
+Nashville Predators,Tom Fitzgerald,30.0,RW,"Billerica, MA",US,1999,fitzgto01
+New Jersey Devils,Scott Stevens,34.0,D,"Kitchener, ON",CA,1999,stevesc01
+New York Islanders,Trevor Linden,28.0,RW,"Medicine Hat, AB",CA,1999,lindetr01
+New York Rangers,Brian Leetch,30.0,D,"Corpus Christi, TX",US,1999,leetcbr01
+Ottawa Senators,Alexei Yashin,25.0,C,Sverdlovsk,SU,1999,yashial01
+Philadelphia Flyers,Eric Lindros,25.0,C,"London, ON",CA,1999,lindrer01
+Phoenix Coyotes,Keith Tkachuk,26.0,LW,"Melrose, MA",US,1999,tkachke01
+Pittsburgh Penguins,Jaromir Jagr,26.0,RW,Kladno,CS,1999,jagrja01
+San Jose Sharks,Owen Nolan,26.0,RW,Belfast,GB,1999,nolanow01
+St. Louis Blues,Chris Pronger,24.0,D,"Dryden, ON",CA,1999,prongch01
+Tampa Bay Lightning,Rob Zamuner,29.0,LW,"Oakville, ON",CA,1999,zamunro01
+Toronto Maple Leafs,Mats Sundin,27.0,C,Bromma,SE,1999,sundima01
+Vancouver Canucks,Mark Messier,38.0,LW/C,"Edmonton, AB",CA,1999,messima01
+Washington Capitals,Dale Hunter,38.0,C,"Petrolia, ON",CA,1999,hunteda02
+Boston Bruins,Ray Bourque,37.0,D,"Montreal, QC",CA,1998,bourqra01
+Buffalo Sabres,Donald Audette,28.0,RW,"Laval, QC",CA,1998,audetdo01
+Buffalo Sabres,Michael Peca,23.0,C,"Toronto, ON",CA,1998,pecami01
+Calgary Flames,Todd Simpson,24.0,D,"North Vancouver, BC",CA,1998,simpsto01
+Carolina Hurricanes,Kevin Dineen,34.0,RW,"Quebec City, QC",CA,1998,dineeke01
+Chicago Blackhawks,Chris Chelios,36.0,D,"Chicago, IL",US,1998,chelich01
+Colorado Avalanche,Joe Sakic,28.0,C,"Burnaby, BC",CA,1998,sakicjo01
+Dallas Stars,Derian Hatcher,25.0,D,"Sterling Hts., MI",US,1998,hatchde01
+Detroit Red Wings,Steve Yzerman,32.0,C,"Cranbrook, BC",CA,1998,yzermst01
+Edmonton Oilers,Kelly Buchberger,31.0,RW,"Langenburg, SK",CA,1998,buchbke01
+Florida Panthers,Scott Mellanby,31.0,RW,"Montreal, QC",CA,1998,mellasc01
+Los Angeles Kings,Rob Blake,28.0,D,"Simcoe, ON",CA,1998,blakero01
+Mighty Ducks of Anaheim,Paul Kariya,23.0,LW,"Vancouver, BC",CA,1998,kariypa01
+Mighty Ducks of Anaheim,Teemu Selanne,27.0,RW,Helsinki,FI,1998,selante01
+Montreal Canadiens,Vincent Damphousse,30.0,C/LW,"Montreal, QC",CA,1998,damphvi01
+New Jersey Devils,Scott Stevens,33.0,D,"Kitchener, ON",CA,1998,stevesc01
+New York Islanders,Trevor Linden,27.0,RW,"Medicine Hat, AB",CA,1998,lindetr01
+New York Islanders,Bryan McCabe,22.0,D,"St. Catharines, ON",CA,1998,mccabbr01
+New York Rangers,Brian Leetch,29.0,D,"Corpus Christi, TX",US,1998,leetcbr01
+Ottawa Senators,Randy Cunneyworth,36.0,LW,"Etobicoke, ON",CA,1998,cunnera01
+Philadelphia Flyers,Eric Lindros,24.0,C,"London, ON",CA,1998,lindrer01
+Phoenix Coyotes,Keith Tkachuk,25.0,LW,"Melrose, MA",US,1998,tkachke01
+Pittsburgh Penguins,Ron Francis,34.0,C,"Sault Ste. Marie, ON",CA,1998,francro01
+San Jose Sharks,Todd Gill,32.0,D,"Cardinal, ON",CA,1998,gillto01
+St. Louis Blues,Chris Pronger,23.0,D,"Dryden, ON",CA,1998,prongch01
+Tampa Bay Lightning,Mikael Renberg,25.0,RW,Pitea,SE,1998,renbemi01
+Tampa Bay Lightning,Paul Ysebaert,31.0,C,"Sarnia, ON",CA,1998,ysebapa01
+Toronto Maple Leafs,Mats Sundin,26.0,C,Bromma,SE,1998,sundima01
+Vancouver Canucks,Mark Messier,37.0,LW/C,"Edmonton, AB",CA,1998,messima01
+Washington Capitals,Dale Hunter,37.0,C,"Petrolia, ON",CA,1998,hunteda02
+Boston Bruins,Ray Bourque,36.0,D,"Montreal, QC",CA,1997,bourqra01
+Buffalo Sabres,Pat LaFontaine,31.0,C,"St. Louis, MO",US,1997,lafonpa01
+Calgary Flames,Theoren Fleury,28.0,RW,"Oxbow, SK",CA,1997,fleurth01
+Chicago Blackhawks,Chris Chelios,35.0,D,"Chicago, IL",US,1997,chelich01
+Colorado Avalanche,Joe Sakic,27.0,C,"Burnaby, BC",CA,1997,sakicjo01
+Dallas Stars,Derian Hatcher,24.0,D,"Sterling Hts., MI",US,1997,hatchde01
+Detroit Red Wings,Steve Yzerman,31.0,C,"Cranbrook, BC",CA,1997,yzermst01
+Edmonton Oilers,Kelly Buchberger,30.0,RW,"Langenburg, SK",CA,1997,buchbke01
+Florida Panthers,Brian Skrudland,33.0,C,"Peace River, AB",CA,1997,skrudbr01
+Hartford Whalers,Kevin Dineen,33.0,RW,"Quebec City, QC",CA,1997,dineeke01
+Los Angeles Kings,Rob Blake,27.0,D,"Simcoe, ON",CA,1997,blakero01
+Mighty Ducks of Anaheim,Paul Kariya,22.0,LW,"Vancouver, BC",CA,1997,kariypa01
+Montreal Canadiens,Vincent Damphousse,29.0,C/LW,"Montreal, QC",CA,1997,damphvi01
+Montreal Canadiens,Pierre Turgeon,27.0,C,"Rouyn, QC",CA,1997,turgepi01
+New Jersey Devils,Scott Stevens,32.0,D,"Kitchener, ON",CA,1997,stevesc01
+New York Islanders,No Captain,,,,,1997,
+New York Rangers,Mark Messier,36.0,LW/C,"Edmonton, AB",CA,1997,messima01
+Ottawa Senators,Randy Cunneyworth,35.0,LW,"Etobicoke, ON",CA,1997,cunnera01
+Philadelphia Flyers,Eric Lindros,23.0,C,"London, ON",CA,1997,lindrer01
+Phoenix Coyotes,Keith Tkachuk,24.0,LW,"Melrose, MA",US,1997,tkachke01
+Pittsburgh Penguins,Mario Lemieux,31.0,C,"Montreal, QC",CA,1997,lemiema01
+San Jose Sharks,Todd Gill,31.0,D,"Cardinal, ON",CA,1997,gillto01
+St. Louis Blues,No Captain,,,,,1997,
+Tampa Bay Lightning,Paul Ysebaert,30.0,C,"Sarnia, ON",CA,1997,ysebapa01
+Toronto Maple Leafs,Doug Gilmour,33.0,C,"Kingston, ON",CA,1997,gilmodo01
+Vancouver Canucks,Trevor Linden,26.0,RW,"Medicine Hat, AB",CA,1997,lindetr01
+Washington Capitals,Dale Hunter,36.0,C,"Petrolia, ON",CA,1997,hunteda02
+Boston Bruins,Ray Bourque,35.0,D,"Montreal, QC",CA,1996,bourqra01
+Buffalo Sabres,Pat LaFontaine,30.0,C,"St. Louis, MO",US,1996,lafonpa01
+Calgary Flames,Theoren Fleury,27.0,RW,"Oxbow, SK",CA,1996,fleurth01
+Chicago Blackhawks,Chris Chelios,34.0,D,"Chicago, IL",US,1996,chelich01
+Colorado Avalanche,Joe Sakic,26.0,C,"Burnaby, BC",CA,1996,sakicjo01
+Dallas Stars,Derian Hatcher,23.0,D,"Sterling Hts., MI",US,1996,hatchde01
+Detroit Red Wings,Steve Yzerman,30.0,C,"Cranbrook, BC",CA,1996,yzermst01
+Edmonton Oilers,Kelly Buchberger,29.0,RW,"Langenburg, SK",CA,1996,buchbke01
+Florida Panthers,Brian Skrudland,32.0,C,"Peace River, AB",CA,1996,skrudbr01
+Hartford Whalers,Brendan Shanahan,27.0,LW,"Mimico, ON",CA,1996,shanabr01
+Los Angeles Kings,Rob Blake,26.0,D,"Simcoe, ON",CA,1996,blakero01
+Los Angeles Kings,Wayne Gretzky,35.0,C,"Brantford, ON",CA,1996,gretzwa01
+Mighty Ducks of Anaheim,Randy Ladouceur,35.0,D,"Brockville, ON",CA,1996,ladoura01
+Montreal Canadiens,Mike Keane,28.0,RW,"Winnipeg, MB",CA,1996,keanemi01
+Montreal Canadiens,Pierre Turgeon,26.0,C,"Rouyn, QC",CA,1996,turgepi01
+New Jersey Devils,Scott Stevens,31.0,D,"Kitchener, ON",CA,1996,stevesc01
+New York Islanders,Pat Flatley,32.0,RW,"Toronto, ON",CA,1996,flatlpa01
+New York Rangers,Mark Messier,35.0,LW/C,"Edmonton, AB",CA,1996,messima01
+Ottawa Senators,Randy Cunneyworth,34.0,LW,"Etobicoke, ON",CA,1996,cunnera01
+Philadelphia Flyers,Eric Lindros,22.0,C,"London, ON",CA,1996,lindrer01
+Pittsburgh Penguins,Mario Lemieux,30.0,C,"Montreal, QC",CA,1996,lemiema01
+San Jose Sharks,Jeff Odgers,26.0,RW,"Spy Hill, SK",CA,1996,odgerje01
+St. Louis Blues,Shayne Corson,29.0,LW,"Barrie, ON",CA,1996,corsosh01
+St. Louis Blues,Wayne Gretzky,35.0,C,"Brantford, ON",CA,1996,gretzwa01
+St. Louis Blues,Brett Hull,31.0,RW,"Belleville, ON",CA,1996,hullbr01
+Tampa Bay Lightning,Paul Ysebaert,29.0,C,"Sarnia, ON",CA,1996,ysebapa01
+Toronto Maple Leafs,Doug Gilmour,32.0,C,"Kingston, ON",CA,1996,gilmodo01
+Vancouver Canucks,Trevor Linden,25.0,RW,"Medicine Hat, AB",CA,1996,lindetr01
+Washington Capitals,Dale Hunter,35.0,C,"Petrolia, ON",CA,1996,hunteda02
+Winnipeg Jets,Kris King,29.0,LW,"Bracebridge, ON",CA,1996,kingkr01
+Boston Bruins,Ray Bourque,34.0,D,"Montreal, QC",CA,1995,bourqra01
+Buffalo Sabres,Pat LaFontaine,29.0,C,"St. Louis, MO",US,1995,lafonpa01
+Calgary Flames,Joe Nieuwendyk,28.0,C,"Oshawa, ON",CA,1995,nieuwjo01
+Chicago Blackhawks,Dirk Graham,35.0,W,"Regina, SK",CA,1995,grahadi01
+Dallas Stars,Neal Broten,35.0,C,"Roseau, MN",US,1995,brotene01
+Dallas Stars,Derian Hatcher,22.0,D,"Sterling Hts., MI",US,1995,hatchde01
+Detroit Red Wings,Steve Yzerman,29.0,C,"Cranbrook, BC",CA,1995,yzermst01
+Edmonton Oilers,Shayne Corson,28.0,LW,"Barrie, ON",CA,1995,corsosh01
+Florida Panthers,Brian Skrudland,31.0,C,"Peace River, AB",CA,1995,skrudbr01
+Hartford Whalers,Pat Verbeek,30.0,RW,"Sarnia, ON",CA,1995,verbepa01
+Los Angeles Kings,Wayne Gretzky,34.0,C,"Brantford, ON",CA,1995,gretzwa01
+Mighty Ducks of Anaheim,Randy Ladouceur,34.0,D,"Brockville, ON",CA,1995,ladoura01
+Montreal Canadiens,Mike Keane,27.0,RW,"Winnipeg, MB",CA,1995,keanemi01
+Montreal Canadiens,Kirk Muller,28.0,LW,"Kingston, ON",CA,1995,mulleki01
+New Jersey Devils,Scott Stevens,30.0,D,"Kitchener, ON",CA,1995,stevesc01
+New York Islanders,Pat Flatley,31.0,RW,"Toronto, ON",CA,1995,flatlpa01
+New York Rangers,Mark Messier,34.0,LW/C,"Edmonton, AB",CA,1995,messima01
+Ottawa Senators,Randy Cunneyworth,33.0,LW,"Etobicoke, ON",CA,1995,cunnera01
+Philadelphia Flyers,Eric Lindros,21.0,C,"London, ON",CA,1995,lindrer01
+Pittsburgh Penguins,Ron Francis,31.0,C,"Sault Ste. Marie, ON",CA,1995,francro01
+Quebec Nordiques,Joe Sakic,25.0,C,"Burnaby, BC",CA,1995,sakicjo01
+San Jose Sharks,Bob Errey,30.0,LW,"Montreal, QC",CA,1995,erreybo01
+San Jose Sharks,Jeff Odgers,25.0,RW,"Spy Hill, SK",CA,1995,odgerje01
+St. Louis Blues,Brett Hull,30.0,RW,"Belleville, ON",CA,1995,hullbr01
+Tampa Bay Lightning,No Captain,,,,,1995,
+Toronto Maple Leafs,Doug Gilmour,31.0,C,"Kingston, ON",CA,1995,gilmodo01
+Vancouver Canucks,Trevor Linden,24.0,RW,"Medicine Hat, AB",CA,1995,lindetr01
+Washington Capitals,Dale Hunter,34.0,C,"Petrolia, ON",CA,1995,hunteda02
+Winnipeg Jets,Keith Tkachuk,22.0,LW,"Melrose, MA",US,1995,tkachke01
+Boston Bruins,Ray Bourque,33.0,D,"Montreal, QC",CA,1994,bourqra01
+Buffalo Sabres,Pat LaFontaine,28.0,C,"St. Louis, MO",US,1994,lafonpa01
+Buffalo Sabres,Alexander Mogilny,24.0,RW,Khabarovsk,SU,1994,mogilal01
+Calgary Flames,Joe Nieuwendyk,27.0,C,"Oshawa, ON",CA,1994,nieuwjo01
+Chicago Blackhawks,Dirk Graham,34.0,W,"Regina, SK",CA,1994,grahadi01
+Dallas Stars,Mark Tinordi,27.0,D,"Red Deer, AB",CA,1994,tinorma01
+Detroit Red Wings,Steve Yzerman,28.0,C,"Cranbrook, BC",CA,1994,yzermst01
+Edmonton Oilers,Craig MacTavish,35.0,C,"London, ON",CA,1994,mactacr01
+Florida Panthers,Brian Skrudland,30.0,C,"Peace River, AB",CA,1994,skrudbr01
+Hartford Whalers,Pat Verbeek,29.0,RW,"Sarnia, ON",CA,1994,verbepa01
+Los Angeles Kings,Wayne Gretzky,33.0,C,"Brantford, ON",CA,1994,gretzwa01
+Mighty Ducks of Anaheim,Troy Loney,30.0,LW,"Bow Island, AB",CA,1994,loneytr01
+Montreal Canadiens,Guy Carbonneau,33.0,C,"Sept-Iles, QC",CA,1994,carbogu01
+New Jersey Devils,Scott Stevens,29.0,D,"Kitchener, ON",CA,1994,stevesc01
+New York Islanders,Pat Flatley,30.0,RW,"Toronto, ON",CA,1994,flatlpa01
+New York Rangers,Mark Messier,33.0,LW/C,"Edmonton, AB",CA,1994,messima01
+Ottawa Senators,Gord Dineen,31.0,D,"Quebec City, QC",CA,1994,dineego01
+Ottawa Senators,Mark Lamb,29.0,C,"Ponteix, SK",CA,1994,lambma01
+Ottawa Senators,Brad Shaw,29.0,D,"Cambridge, ON",CA,1994,shawbr01
+Philadelphia Flyers,Kevin Dineen,30.0,RW,"Quebec City, QC",CA,1994,dineeke01
+Pittsburgh Penguins,Mario Lemieux,28.0,C,"Montreal, QC",CA,1994,lemiema01
+Quebec Nordiques,Joe Sakic,24.0,C,"Burnaby, BC",CA,1994,sakicjo01
+San Jose Sharks,Bob Errey,29.0,LW,"Montreal, QC",CA,1994,erreybo01
+St. Louis Blues,Brett Hull,29.0,RW,"Belleville, ON",CA,1994,hullbr01
+Tampa Bay Lightning,No Captain,,,,,1994,
+Toronto Maple Leafs,Wendel Clark,27.0,LW/D,"Kelvington, SK",CA,1994,clarkwe01
+Vancouver Canucks,Trevor Linden,23.0,RW,"Medicine Hat, AB",CA,1994,lindetr01
+Washington Capitals,Kevin Hatcher,27.0,D,"Detroit, MI",US,1994,hatchke01
+Winnipeg Jets,Dean Kennedy,31.0,D,"Redvers, SK",CA,1994,kennede01
+Winnipeg Jets,Keith Tkachuk,21.0,LW,"Melrose, MA",US,1994,tkachke01
+Boston Bruins,Ray Bourque,32.0,D,"Montreal, QC",CA,1993,bourqra01
+Buffalo Sabres,Pat LaFontaine,27.0,C,"St. Louis, MO",US,1993,lafonpa01
+Buffalo Sabres,Mike Ramsey,32.0,D,"Minneapolis, MN",US,1993,ramsemi01
+Calgary Flames,Joe Nieuwendyk,26.0,C,"Oshawa, ON",CA,1993,nieuwjo01
+Chicago Blackhawks,Dirk Graham,33.0,W,"Regina, SK",CA,1993,grahadi01
+Detroit Red Wings,Steve Yzerman,27.0,C,"Cranbrook, BC",CA,1993,yzermst01
+Edmonton Oilers,Craig MacTavish,34.0,C,"London, ON",CA,1993,mactacr01
+Hartford Whalers,Pat Verbeek,28.0,RW,"Sarnia, ON",CA,1993,verbepa01
+Los Angeles Kings,Wayne Gretzky,32.0,C,"Brantford, ON",CA,1993,gretzwa01
+Los Angeles Kings,Luc Robitaille,26.0,LW,"Montreal, QC",CA,1993,robitlu01
+Minnesota North Stars,Mark Tinordi,26.0,D,"Red Deer, AB",CA,1993,tinorma01
+Montreal Canadiens,Guy Carbonneau,32.0,C,"Sept-Iles, QC",CA,1993,carbogu01
+New Jersey Devils,Scott Stevens,28.0,D,"Kitchener, ON",CA,1993,stevesc01
+New York Islanders,Pat Flatley,29.0,RW,"Toronto, ON",CA,1993,flatlpa01
+New York Rangers,Mark Messier,32.0,LW/C,"Edmonton, AB",CA,1993,messima01
+Ottawa Senators,Laurie Boschman,32.0,C,"Major, SK",CA,1993,boschla01
+Philadelphia Flyers,No Captain,,,,,1993,
+Pittsburgh Penguins,Mario Lemieux,27.0,C,"Montreal, QC",CA,1993,lemiema01
+Quebec Nordiques,Joe Sakic,23.0,C,"Burnaby, BC",CA,1993,sakicjo01
+San Jose Sharks,Doug Wilson,35.0,D,"Ottawa, ON",CA,1993,wilsodo01
+St. Louis Blues,Brett Hull,28.0,RW,"Belleville, ON",CA,1993,hullbr01
+Tampa Bay Lightning,No Captain,,,,,1993,
+Toronto Maple Leafs,Wendel Clark,26.0,LW/D,"Kelvington, SK",CA,1993,clarkwe01
+Vancouver Canucks,Trevor Linden,22.0,RW,"Medicine Hat, AB",CA,1993,lindetr01
+Washington Capitals,Kevin Hatcher,26.0,D,"Detroit, MI",US,1993,hatchke01
+Washington Capitals,Rod Langway,35.0,D,Maag,TW,1993,langwro01
+Winnipeg Jets,Dean Kennedy,30.0,D,"Redvers, SK",CA,1993,kennede01
+Winnipeg Jets,Troy Murray,30.0,C,"Calgary, AB",CA,1993,murratr01
+Boston Bruins,Ray Bourque,31.0,D,"Montreal, QC",CA,1992,bourqra01
+Buffalo Sabres,Mike Ramsey,31.0,D,"Minneapolis, MN",US,1992,ramsemi01
+Calgary Flames,Joe Nieuwendyk,25.0,C,"Oshawa, ON",CA,1992,nieuwjo01
+Chicago Blackhawks,Dirk Graham,32.0,W,"Regina, SK",CA,1992,grahadi01
+Detroit Red Wings,Steve Yzerman,26.0,C,"Cranbrook, BC",CA,1992,yzermst01
+Edmonton Oilers,Kevin Lowe,32.0,D,"Lachute, QC",CA,1992,loweke01
+Hartford Whalers,Randy Ladouceur,31.0,D,"Brockville, ON",CA,1992,ladoura01
+Los Angeles Kings,Wayne Gretzky,31.0,C,"Brantford, ON",CA,1992,gretzwa01
+Minnesota North Stars,Mark Tinordi,25.0,D,"Red Deer, AB",CA,1992,tinorma01
+Montreal Canadiens,Guy Carbonneau,31.0,C,"Sept-Iles, QC",CA,1992,carbogu01
+New Jersey Devils,Bruce Driver,29.0,D,"Toronto, ON",CA,1992,drivebr01
+New York Islanders,Pat Flatley,28.0,RW,"Toronto, ON",CA,1992,flatlpa01
+New York Islanders,Brent Sutter,29.0,C,"Viking, AB",CA,1992,suttebr02
+New York Rangers,Mark Messier,31.0,LW/C,"Edmonton, AB",CA,1992,messima01
+Philadelphia Flyers,Rick Tocchet,27.0,RW,"Scarborough, ON",CA,1992,tocchri01
+Pittsburgh Penguins,Mario Lemieux,26.0,C,"Montreal, QC",CA,1992,lemiema01
+Quebec Nordiques,Mike Hough,28.0,LW,"Montreal, QC",CA,1992,houghmi01
+San Jose Sharks,Doug Wilson,34.0,D,"Ottawa, ON",CA,1992,wilsodo01
+St. Louis Blues,Garth Butcher,29.0,D,"Regina, SK",CA,1992,butchga01
+Toronto Maple Leafs,Wendel Clark,25.0,LW/D,"Kelvington, SK",CA,1992,clarkwe01
+Vancouver Canucks,Trevor Linden,21.0,RW,"Medicine Hat, AB",CA,1992,lindetr01
+Washington Capitals,Rod Langway,34.0,D,Maag,TW,1992,langwro01
+Winnipeg Jets,Troy Murray,29.0,C,"Calgary, AB",CA,1992,murratr01
+Boston Bruins,Ray Bourque,30.0,D,"Montreal, QC",CA,1991,bourqra01
+Buffalo Sabres,Mike Foligno,32.0,RW,"Sudbury, ON",CA,1991,foligmi01
+Buffalo Sabres,Mike Ramsey,30.0,D,"Minneapolis, MN",US,1991,ramsemi01
+Calgary Flames,No Captain,,,,,1991,
+Chicago Blackhawks,Dirk Graham,31.0,W,"Regina, SK",CA,1991,grahadi01
+Detroit Red Wings,Steve Yzerman,25.0,C,"Cranbrook, BC",CA,1991,yzermst01
+Edmonton Oilers,Mark Messier,30.0,LW/C,"Edmonton, AB",CA,1991,messima01
+Hartford Whalers,Ron Francis,27.0,C,"Sault Ste. Marie, ON",CA,1991,francro01
+Los Angeles Kings,Wayne Gretzky,30.0,C,"Brantford, ON",CA,1991,gretzwa01
+Minnesota North Stars,Curt Giles,32.0,D,"The Pas, MB",CA,1991,gilescu01
+Montreal Canadiens,Guy Carbonneau,30.0,C,"Sept-Iles, QC",CA,1991,carbogu01
+New Jersey Devils,Kirk Muller,24.0,LW,"Kingston, ON",CA,1991,mulleki01
+New York Islanders,Brent Sutter,28.0,C,"Viking, AB",CA,1991,suttebr02
+New York Rangers,Kelly Kisio,31.0,C,"Peace River, AB",CA,1991,kisioke01
+Philadelphia Flyers,Ron Sutter,27.0,C,"Viking, AB",CA,1991,suttero01
+Pittsburgh Penguins,Mario Lemieux,25.0,C,"Montreal, QC",CA,1991,lemiema01
+Quebec Nordiques,Steven Finn,24.0,D,"Laval, QC",CA,1991,finnst01
+Quebec Nordiques,Joe Sakic,21.0,C,"Burnaby, BC",CA,1991,sakicjo01
+St. Louis Blues,Scott Stevens,26.0,D,"Kitchener, ON",CA,1991,stevesc01
+Toronto Maple Leafs,Rob Ramage,32.0,D,"Byron, ON",CA,1991,ramagro01
+Vancouver Canucks,Doug Lidster,30.0,D,"Kamloops, BC",CA,1991,lidstdo01
+Vancouver Canucks,Trevor Linden,20.0,RW,"Medicine Hat, AB",CA,1991,lindetr01
+Vancouver Canucks,Dan Quinn,25.0,C,"Ottawa, ON",CA,1991,quinnda01
+Washington Capitals,Rod Langway,33.0,D,Maag,TW,1991,langwro01
+Winnipeg Jets,Randy Carlyle,34.0,D,"Sudbury, ON",CA,1991,carlyra01
+Winnipeg Jets,Thomas Steen,30.0,C,Grums,SE,1991,steenth01
+Boston Bruins,Ray Bourque,29.0,D,"Montreal, QC",CA,1990,bourqra01
+Buffalo Sabres,Mike Foligno,31.0,RW,"Sudbury, ON",CA,1990,foligmi01
+Calgary Flames,Brad McCrimmon,30.0,D,"Dodsland, SK",CA,1990,mccribr01
+Chicago Blackhawks,Dirk Graham,30.0,W,"Regina, SK",CA,1990,grahadi01
+Detroit Red Wings,Steve Yzerman,24.0,C,"Cranbrook, BC",CA,1990,yzermst01
+Edmonton Oilers,Mark Messier,29.0,LW/C,"Edmonton, AB",CA,1990,messima01
+Hartford Whalers,Ron Francis,26.0,C,"Sault Ste. Marie, ON",CA,1990,francro01
+Los Angeles Kings,Wayne Gretzky,29.0,C,"Brantford, ON",CA,1990,gretzwa01
+Minnesota North Stars,Curt Giles,31.0,D,"The Pas, MB",CA,1990,gilescu01
+Montreal Canadiens,Guy Carbonneau,29.0,C,"Sept-Iles, QC",CA,1990,carbogu01
+Montreal Canadiens,Chris Chelios,28.0,D,"Chicago, IL",US,1990,chelich01
+New Jersey Devils,Kirk Muller,23.0,LW,"Kingston, ON",CA,1990,mulleki01
+New York Islanders,Brent Sutter,27.0,C,"Viking, AB",CA,1990,suttebr02
+New York Rangers,Kelly Kisio,30.0,C,"Peace River, AB",CA,1990,kisioke01
+Philadelphia Flyers,Dave Poulin,31.0,C,"Timmins, ON",CA,1990,poulida02
+Philadelphia Flyers,Ron Sutter,26.0,C,"Viking, AB",CA,1990,suttero01
+Pittsburgh Penguins,Mario Lemieux,24.0,C,"Montreal, QC",CA,1990,lemiema01
+Quebec Nordiques,Peter Stastny,33.0,C,Bratislava,CS,1990,stastpe01
+St. Louis Blues,Rick Meagher,36.0,C,"Belleville, ON",CA,1990,meaghri01
+Toronto Maple Leafs,Rob Ramage,31.0,D,"Byron, ON",CA,1990,ramagro01
+Vancouver Canucks,Stan Smyl,32.0,RW,"Glendon, AB",CA,1990,smylst01
+Washington Capitals,Rod Langway,32.0,D,Maag,TW,1990,langwro01
+Winnipeg Jets,Randy Carlyle,33.0,D,"Sudbury, ON",CA,1990,carlyra01
+Winnipeg Jets,Dale Hawerchuk,26.0,C,"Toronto, ON",CA,1990,hawerda01
+Winnipeg Jets,Thomas Steen,29.0,C,Grums,SE,1990,steenth01
+Boston Bruins,Ray Bourque,28.0,D,"Montreal, QC",CA,1989,bourqra01
+Buffalo Sabres,Mike Foligno,30.0,RW,"Sudbury, ON",CA,1989,foligmi01
+Buffalo Sabres,Lindy Ruff,28.0,D/LW,"Warburg, AB",CA,1989,ruffli01
+Calgary Flames,Tim Hunter,28.0,RW,"Calgary, AB",CA,1989,hunteti01
+Calgary Flames,Lanny McDonald,35.0,RW,"Hanna, AB",CA,1989,mcdonla01
+Calgary Flames,Jim Peplinski,28.0,RW,"Renfrew, ON",CA,1989,pepliji01
+Chicago Blackhawks,Dirk Graham,29.0,W,"Regina, SK",CA,1989,grahadi01
+Chicago Blackhawks,Denis Savard,27.0,C,"Pointe Gatineau, QC",CA,1989,savarde01
+Detroit Red Wings,Steve Yzerman,23.0,C,"Cranbrook, BC",CA,1989,yzermst01
+Edmonton Oilers,Mark Messier,28.0,LW/C,"Edmonton, AB",CA,1989,messima01
+Hartford Whalers,Ron Francis,25.0,C,"Sault Ste. Marie, ON",CA,1989,francro01
+Los Angeles Kings,Dave Taylor,33.0,RW,"Levack, ON",CA,1989,tayloda01
+Minnesota North Stars,Curt Fraser,31.0,LW,"Cincinnati, OH",US,1989,frasecu01
+Minnesota North Stars,Curt Giles,30.0,D,"The Pas, MB",CA,1989,gilescu01
+Minnesota North Stars,Bob Rouse,24.0,D,"Surrey, BC",CA,1989,rousebo01
+Montreal Canadiens,Bob Gainey,35.0,LW,"Peterborough, ON",CA,1989,gainebo01
+New Jersey Devils,Kirk Muller,22.0,LW,"Kingston, ON",CA,1989,mulleki01
+New York Islanders,Brent Sutter,26.0,C,"Viking, AB",CA,1989,suttebr02
+New York Rangers,Kelly Kisio,29.0,C,"Peace River, AB",CA,1989,kisioke01
+Philadelphia Flyers,Dave Poulin,30.0,C,"Timmins, ON",CA,1989,poulida02
+Pittsburgh Penguins,Mario Lemieux,23.0,C,"Montreal, QC",CA,1989,lemiema01
+Quebec Nordiques,Peter Stastny,32.0,C,Bratislava,CS,1989,stastpe01
+St. Louis Blues,Bernie Federko,32.0,C,"Foam Lake, SK",CA,1989,federbe01
+Toronto Maple Leafs,No Captain,,,,,1989,
+Vancouver Canucks,Stan Smyl,31.0,RW,"Glendon, AB",CA,1989,smylst01
+Washington Capitals,Rod Langway,31.0,D,Maag,TW,1989,langwro01
+Winnipeg Jets,Dale Hawerchuk,25.0,C,"Toronto, ON",CA,1989,hawerda01
+Boston Bruins,Ray Bourque,27.0,D,"Montreal, QC",CA,1988,bourqra01
+Boston Bruins,Rick Middleton,34.0,RW,"Toronto, ON",CA,1988,middlri01
+Buffalo Sabres,Lindy Ruff,27.0,D/LW,"Warburg, AB",CA,1988,ruffli01
+Calgary Flames,Lanny McDonald,34.0,RW,"Hanna, AB",CA,1988,mcdonla01
+Calgary Flames,Jim Peplinski,27.0,RW,"Renfrew, ON",CA,1988,pepliji01
+Chicago Blackhawks,No Captain,,,,,1988,
+Detroit Red Wings,Steve Yzerman,22.0,C,"Cranbrook, BC",CA,1988,yzermst01
+Edmonton Oilers,Wayne Gretzky,27.0,C,"Brantford, ON",CA,1988,gretzwa01
+Hartford Whalers,Ron Francis,24.0,C,"Sault Ste. Marie, ON",CA,1988,francro01
+Los Angeles Kings,Dave Taylor,32.0,RW,"Levack, ON",CA,1988,tayloda01
+Minnesota North Stars,Craig Hartsburg,28.0,D,"Stratford, ON",CA,1988,hartscr01
+Montreal Canadiens,Bob Gainey,34.0,LW,"Peterborough, ON",CA,1988,gainebo01
+New Jersey Devils,Kirk Muller,21.0,LW,"Kingston, ON",CA,1988,mulleki01
+New York Islanders,Brent Sutter,25.0,C,"Viking, AB",CA,1988,suttebr02
+New York Rangers,Ron Greschner,33.0,D,"Goodsoil, SK",CA,1988,grescro01
+New York Rangers,Kelly Kisio,28.0,C,"Peace River, AB",CA,1988,kisioke01
+Philadelphia Flyers,Dave Poulin,29.0,C,"Timmins, ON",CA,1988,poulida02
+Pittsburgh Penguins,Dan Frawley,25.0,RW,"Sturgeon Falls, ON",CA,1988,frawlda01
+Pittsburgh Penguins,Mario Lemieux,22.0,C,"Montreal, QC",CA,1988,lemiema01
+Quebec Nordiques,Peter Stastny,31.0,C,Bratislava,CS,1988,stastpe01
+St. Louis Blues,Brian Sutter,31.0,LW,"Viking, AB",CA,1988,suttebr01
+Toronto Maple Leafs,No Captain,,,,,1988,
+Vancouver Canucks,Stan Smyl,30.0,RW,"Glendon, AB",CA,1988,smylst01
+Washington Capitals,Rod Langway,30.0,D,Maag,TW,1988,langwro01
+Winnipeg Jets,Dale Hawerchuk,24.0,C,"Toronto, ON",CA,1988,hawerda01
+Boston Bruins,Ray Bourque,26.0,D,"Montreal, QC",CA,1987,bourqra01
+Boston Bruins,Rick Middleton,33.0,RW,"Toronto, ON",CA,1987,middlri01
+Buffalo Sabres,Gilbert Perreault,36.0,C,"Victoriaville, QC",CA,1987,perregi01
+Buffalo Sabres,Lindy Ruff,26.0,D/LW,"Warburg, AB",CA,1987,ruffli01
+Calgary Flames,Lanny McDonald,33.0,RW,"Hanna, AB",CA,1987,mcdonla01
+Calgary Flames,Jim Peplinski,26.0,RW,"Renfrew, ON",CA,1987,pepliji01
+Calgary Flames,Doug Risebrough,33.0,C,"Guelph, ON",CA,1987,risebdo01
+Chicago Blackhawks,Darryl Sutter,28.0,LW,"Viking, AB",CA,1987,sutteda01
+Detroit Red Wings,Steve Yzerman,21.0,C,"Cranbrook, BC",CA,1987,yzermst01
+Edmonton Oilers,Wayne Gretzky,26.0,C,"Brantford, ON",CA,1987,gretzwa01
+Hartford Whalers,Ron Francis,23.0,C,"Sault Ste. Marie, ON",CA,1987,francro01
+Los Angeles Kings,Dave Taylor,31.0,RW,"Levack, ON",CA,1987,tayloda01
+Minnesota North Stars,Craig Hartsburg,27.0,D,"Stratford, ON",CA,1987,hartscr01
+Montreal Canadiens,Bob Gainey,33.0,LW,"Peterborough, ON",CA,1987,gainebo01
+New Jersey Devils,Mel Bridgman,31.0,C,"Trenton, ON",CA,1987,bridgme01
+New York Islanders,Denis Potvin,33.0,D,"Ottawa, ON",CA,1987,potvide01
+New York Rangers,Ron Greschner,32.0,D,"Goodsoil, SK",CA,1987,grescro01
+Philadelphia Flyers,Dave Poulin,28.0,C,"Timmins, ON",CA,1987,poulida02
+Pittsburgh Penguins,Mike Bullard,25.0,C,"Ottawa, ON",CA,1987,bullami01
+Pittsburgh Penguins,Terry Ruskowski,32.0,C,"Prince Albert, SK",CA,1987,ruskote01
+Quebec Nordiques,Peter Stastny,30.0,C,Bratislava,CS,1987,stastpe01
+St. Louis Blues,Brian Sutter,30.0,LW,"Viking, AB",CA,1987,suttebr01
+Toronto Maple Leafs,No Captain,,,,,1987,
+Vancouver Canucks,Stan Smyl,29.0,RW,"Glendon, AB",CA,1987,smylst01
+Washington Capitals,Rod Langway,29.0,D,Maag,TW,1987,langwro01
+Winnipeg Jets,Dale Hawerchuk,23.0,C,"Toronto, ON",CA,1987,hawerda01
+Boston Bruins,Ray Bourque,25.0,D,"Montreal, QC",CA,1986,bourqra01
+Boston Bruins,Rick Middleton,32.0,RW,"Toronto, ON",CA,1986,middlri01
+Buffalo Sabres,Gilbert Perreault,35.0,C,"Victoriaville, QC",CA,1986,perregi01
+Calgary Flames,Lanny McDonald,32.0,RW,"Hanna, AB",CA,1986,mcdonla01
+Calgary Flames,Jim Peplinski,25.0,RW,"Renfrew, ON",CA,1986,pepliji01
+Calgary Flames,Doug Risebrough,32.0,C,"Guelph, ON",CA,1986,risebdo01
+Chicago Black Hawks,Bob Murray,31.0,D,"Kingston, ON",CA,1986,murrabo02
+Chicago Black Hawks,Darryl Sutter,27.0,LW,"Viking, AB",CA,1986,sutteda01
+Detroit Red Wings,Danny Gare,31.0,RW,"Nelson, BC",CA,1986,gareda01
+Edmonton Oilers,Wayne Gretzky,25.0,C,"Brantford, ON",CA,1986,gretzwa01
+Hartford Whalers,Ron Francis,22.0,C,"Sault Ste. Marie, ON",CA,1986,francro01
+Los Angeles Kings,Dave Taylor,30.0,RW,"Levack, ON",CA,1986,tayloda01
+Minnesota North Stars,Craig Hartsburg,26.0,D,"Stratford, ON",CA,1986,hartscr01
+Montreal Canadiens,Bob Gainey,32.0,LW,"Peterborough, ON",CA,1986,gainebo01
+New Jersey Devils,Mel Bridgman,30.0,C,"Trenton, ON",CA,1986,bridgme01
+New York Islanders,Denis Potvin,32.0,D,"Ottawa, ON",CA,1986,potvide01
+New York Rangers,Barry Beck,28.0,D,"Vancouver, BC",CA,1986,beckba01
+Philadelphia Flyers,Dave Poulin,27.0,C,"Timmins, ON",CA,1986,poulida02
+Pittsburgh Penguins,Mike Bullard,24.0,C,"Ottawa, ON",CA,1986,bullami01
+Quebec Nordiques,Mario Marois,28.0,D,"Quebec City, QC",CA,1986,maroima01
+Quebec Nordiques,Peter Stastny,29.0,C,Bratislava,CS,1986,stastpe01
+St. Louis Blues,Brian Sutter,29.0,LW,"Viking, AB",CA,1986,suttebr01
+Toronto Maple Leafs,Rick Vaive,26.0,RW,"Ottawa, ON",CA,1986,vaiveri01
+Vancouver Canucks,Stan Smyl,28.0,RW,"Glendon, AB",CA,1986,smylst01
+Washington Capitals,Rod Langway,28.0,D,Maag,TW,1986,langwro01
+Winnipeg Jets,Dale Hawerchuk,22.0,C,"Toronto, ON",CA,1986,hawerda01
+Boston Bruins,Terry O'Reilly,33.0,RW,"Niagara Falls, ON",CA,1985,oreilte01
+Buffalo Sabres,Gilbert Perreault,34.0,C,"Victoriaville, QC",CA,1985,perregi01
+Calgary Flames,Lanny McDonald,31.0,RW,"Hanna, AB",CA,1985,mcdonla01
+Calgary Flames,Jim Peplinski,24.0,RW,"Renfrew, ON",CA,1985,pepliji01
+Calgary Flames,Doug Risebrough,31.0,C,"Guelph, ON",CA,1985,risebdo01
+Chicago Black Hawks,Darryl Sutter,26.0,LW,"Viking, AB",CA,1985,sutteda01
+Detroit Red Wings,Danny Gare,30.0,RW,"Nelson, BC",CA,1985,gareda01
+Edmonton Oilers,Wayne Gretzky,24.0,C,"Brantford, ON",CA,1985,gretzwa01
+Hartford Whalers,Ron Francis,21.0,C,"Sault Ste. Marie, ON",CA,1985,francro01
+Hartford Whalers,Mark Johnson,27.0,C,"Minneapolis, MN",US,1985,johnsma02
+Los Angeles Kings,Terry Ruskowski,30.0,C,"Prince Albert, SK",CA,1985,ruskote01
+Minnesota North Stars,Craig Hartsburg,25.0,D,"Stratford, ON",CA,1985,hartscr01
+Montreal Canadiens,Bob Gainey,31.0,LW,"Peterborough, ON",CA,1985,gainebo01
+New Jersey Devils,Mel Bridgman,29.0,C,"Trenton, ON",CA,1985,bridgme01
+New York Islanders,Denis Potvin,31.0,D,"Ottawa, ON",CA,1985,potvide01
+New York Rangers,Barry Beck,27.0,D,"Vancouver, BC",CA,1985,beckba01
+Philadelphia Flyers,Dave Poulin,26.0,C,"Timmins, ON",CA,1985,poulida02
+Pittsburgh Penguins,Mike Bullard,23.0,C,"Ottawa, ON",CA,1985,bullami01
+Quebec Nordiques,Mario Marois,27.0,D,"Quebec City, QC",CA,1985,maroima01
+St. Louis Blues,Brian Sutter,28.0,LW,"Viking, AB",CA,1985,suttebr01
+Toronto Maple Leafs,Rick Vaive,25.0,RW,"Ottawa, ON",CA,1985,vaiveri01
+Vancouver Canucks,Stan Smyl,27.0,RW,"Glendon, AB",CA,1985,smylst01
+Washington Capitals,Rod Langway,27.0,D,Maag,TW,1985,langwro01
+Winnipeg Jets,Dale Hawerchuk,21.0,C,"Toronto, ON",CA,1985,hawerda01
+Boston Bruins,Terry O'Reilly,32.0,RW,"Niagara Falls, ON",CA,1984,oreilte01
+Buffalo Sabres,Gilbert Perreault,33.0,C,"Victoriaville, QC",CA,1984,perregi01
+Calgary Flames,Lanny McDonald,30.0,RW,"Hanna, AB",CA,1984,mcdonla01
+Calgary Flames,Doug Risebrough,30.0,C,"Guelph, ON",CA,1984,risebdo01
+Chicago Black Hawks,Darryl Sutter,25.0,LW,"Viking, AB",CA,1984,sutteda01
+Detroit Red Wings,Danny Gare,29.0,RW,"Nelson, BC",CA,1984,gareda01
+Edmonton Oilers,Wayne Gretzky,23.0,C,"Brantford, ON",CA,1984,gretzwa01
+Hartford Whalers,Mark Johnson,26.0,C,"Minneapolis, MN",US,1984,johnsma02
+Los Angeles Kings,Terry Ruskowski,29.0,C,"Prince Albert, SK",CA,1984,ruskote01
+Minnesota North Stars,Brian Bellows,19.0,LW,"St. Catharines, ON",CA,1984,bellobr01
+Minnesota North Stars,Craig Hartsburg,24.0,D,"Stratford, ON",CA,1984,hartscr01
+Montreal Canadiens,Bob Gainey,30.0,LW,"Peterborough, ON",CA,1984,gainebo01
+New Jersey Devils,Mel Bridgman,28.0,C,"Trenton, ON",CA,1984,bridgme01
+New Jersey Devils,Don Lever,31.0,LW,"South Porcupine, ON",CA,1984,leverdo01
+New York Islanders,Denis Potvin,30.0,D,"Ottawa, ON",CA,1984,potvide01
+New York Rangers,Barry Beck,26.0,D,"Vancouver, BC",CA,1984,beckba01
+Philadelphia Flyers,Bobby Clarke,34.0,C,"Flin Flon, MB",CA,1984,clarkbo01
+Pittsburgh Penguins,Randy Carlyle,27.0,D,"Sudbury, ON",CA,1984,carlyra01
+Quebec Nordiques,Mario Marois,26.0,D,"Quebec City, QC",CA,1984,maroima01
+St. Louis Blues,Brian Sutter,27.0,LW,"Viking, AB",CA,1984,suttebr01
+Toronto Maple Leafs,Rick Vaive,24.0,RW,"Ottawa, ON",CA,1984,vaiveri01
+Vancouver Canucks,Stan Smyl,26.0,RW,"Glendon, AB",CA,1984,smylst01
+Washington Capitals,Rod Langway,26.0,D,Maag,TW,1984,langwro01
+Winnipeg Jets,Lucien DeBlois,26.0,C,"Joliette, QC",CA,1984,deblolu01
+Boston Bruins,Wayne Cashman,37.0,LW,"Kingston, ON",CA,1983,cashmwa01
+Buffalo Sabres,Gilbert Perreault,32.0,C,"Victoriaville, QC",CA,1983,perregi01
+Calgary Flames,Phil Russell,30.0,D,"Edmonton, AB",CA,1983,russeph01
+Chicago Black Hawks,Darryl Sutter,24.0,LW,"Viking, AB",CA,1983,sutteda01
+Detroit Red Wings,Danny Gare,28.0,RW,"Nelson, BC",CA,1983,gareda01
+Edmonton Oilers,Lee Fogolin,27.0,D,"Chicago, IL",US,1983,fogolle02
+Hartford Whalers,Russ Anderson,27.0,D,"Minneapolis, MN",US,1983,anderru01
+Los Angeles Kings,Dave Lewis,29.0,D,"Kindersley, SK",CA,1983,lewisda02
+Minnesota North Stars,Craig Hartsburg,23.0,D,"Stratford, ON",CA,1983,hartscr01
+Montreal Canadiens,Bob Gainey,29.0,LW,"Peterborough, ON",CA,1983,gainebo01
+New Jersey Devils,Don Lever,30.0,LW,"South Porcupine, ON",CA,1983,leverdo01
+New York Islanders,Denis Potvin,29.0,D,"Ottawa, ON",CA,1983,potvide01
+New York Rangers,Barry Beck,25.0,D,"Vancouver, BC",CA,1983,beckba01
+Philadelphia Flyers,Bill Barber,30.0,LW,"Callander, ON",CA,1983,barbebi01
+Philadelphia Flyers,Bobby Clarke,33.0,C,"Flin Flon, MB",CA,1983,clarkbo01
+Pittsburgh Penguins,Randy Carlyle,26.0,D,"Sudbury, ON",CA,1983,carlyra01
+Quebec Nordiques,Mario Marois,25.0,D,"Quebec City, QC",CA,1983,maroima01
+St. Louis Blues,Brian Sutter,26.0,LW,"Viking, AB",CA,1983,suttebr01
+Toronto Maple Leafs,Rick Vaive,23.0,RW,"Ottawa, ON",CA,1983,vaiveri01
+Vancouver Canucks,Stan Smyl,25.0,RW,"Glendon, AB",CA,1983,smylst01
+Washington Capitals,Rod Langway,25.0,D,Maag,TW,1983,langwro01
+Winnipeg Jets,Dave Christian,23.0,RW,"Warroad, MN",US,1983,chrisda01
+Winnipeg Jets,Lucien DeBlois,25.0,C,"Joliette, QC",CA,1983,deblolu01
+Boston Bruins,Wayne Cashman,36.0,LW,"Kingston, ON",CA,1982,cashmwa01
+Buffalo Sabres,Danny Gare,27.0,RW,"Nelson, BC",CA,1982,gareda01
+Buffalo Sabres,Gilbert Perreault,31.0,C,"Victoriaville, QC",CA,1982,perregi01
+Calgary Flames,Phil Russell,29.0,D,"Edmonton, AB",CA,1982,russeph01
+Chicago Black Hawks,Terry Ruskowski,27.0,C,"Prince Albert, SK",CA,1982,ruskote01
+Colorado Rockies,Lanny McDonald,28.0,RW,"Hanna, AB",CA,1982,mcdonla01
+Colorado Rockies,Rob Ramage,23.0,D,"Byron, ON",CA,1982,ramagro01
+Detroit Red Wings,Reed Larson,25.0,D,"Minneapolis, MN",US,1982,larsore01
+Edmonton Oilers,Lee Fogolin,26.0,D,"Chicago, IL",US,1982,fogolle02
+Hartford Whalers,Dave Keon,41.0,C,"Noranda, QC",CA,1982,keonda01
+Los Angeles Kings,Dave Lewis,28.0,D,"Kindersley, SK",CA,1982,lewisda02
+Minnesota North Stars,Tim Young,26.0,C,"Scarborough, ON",CA,1982,youngti01
+Montreal Canadiens,Bob Gainey,28.0,LW,"Peterborough, ON",CA,1982,gainebo01
+New York Islanders,Denis Potvin,28.0,D,"Ottawa, ON",CA,1982,potvide01
+New York Rangers,Barry Beck,24.0,D,"Vancouver, BC",CA,1982,beckba01
+Philadelphia Flyers,Bill Barber,29.0,LW,"Callander, ON",CA,1982,barbebi01
+Pittsburgh Penguins,Randy Carlyle,25.0,D,"Sudbury, ON",CA,1982,carlyra01
+Quebec Nordiques,Andre Dupont,32.0,D,"Trois-Rivieres, QC",CA,1982,duponan01
+Quebec Nordiques,Robbie Ftorek,30.0,C/LW,"Needham, MA",US,1982,ftorero01
+St. Louis Blues,Brian Sutter,25.0,LW,"Viking, AB",CA,1982,suttebr01
+Toronto Maple Leafs,Rick Vaive,22.0,RW,"Ottawa, ON",CA,1982,vaiveri01
+Vancouver Canucks,Kevin McCarthy,24.0,D,"Winnipeg, MB",CA,1982,mccarke01
+Washington Capitals,Ryan Walter,23.0,C/LW,"New Westminster, BC",CA,1982,waltery01
+Winnipeg Jets,Dave Christian,22.0,RW,"Warroad, MN",US,1982,chrisda01
+Boston Bruins,Wayne Cashman,35.0,LW,"Kingston, ON",CA,1981,cashmwa01
+Buffalo Sabres,Danny Gare,26.0,RW,"Nelson, BC",CA,1981,gareda01
+Calgary Flames,Brad Marsh,22.0,D,"London, ON",CA,1981,marshbr01
+Chicago Black Hawks,Terry Ruskowski,26.0,C,"Prince Albert, SK",CA,1981,ruskote01
+Colorado Rockies,Lanny McDonald,27.0,RW,"Hanna, AB",CA,1981,mcdonla01
+Detroit Red Wings,Reed Larson,24.0,D,"Minneapolis, MN",US,1981,larsore01
+Detroit Red Wings,Errol Thompson,30.0,LW,"Summerside, PE",CA,1981,thomper01
+Edmonton Oilers,Lee Fogolin,25.0,D,"Chicago, IL",US,1981,fogolle02
+Edmonton Oilers,Blair MacDonald,27.0,RW,"Cornwall, ON",CA,1981,macdobl01
+Hartford Whalers,Rick Ley,32.0,D,"Orillia, ON",CA,1981,leyri01
+Hartford Whalers,Mike Rogers,26.0,C,"Calgary, AB",CA,1981,rogermi01
+Los Angeles Kings,Mike Murphy,30.0,RW,"Toronto, ON",CA,1981,murphmi01
+Minnesota North Stars,Paul Shmyr,35.0,D,"Cudworth, SK",CA,1981,shmyrpa01
+Montreal Canadiens,Serge Savard,35.0,D,"Montreal, QC",CA,1981,savarse01
+New York Islanders,Denis Potvin,27.0,D,"Ottawa, ON",CA,1981,potvide01
+New York Rangers,Barry Beck,23.0,D,"Vancouver, BC",CA,1981,beckba01
+New York Rangers,Dave Maloney,24.0,D,"Kitchener, ON",CA,1981,malonda02
+New York Rangers,Walt Tkaczuk,33.0,C,Emsdetten,DE,1981,tkaczwa01
+Philadelphia Flyers,Mel Bridgman,25.0,C,"Trenton, ON",CA,1981,bridgme01
+Pittsburgh Penguins,Orest Kindrachuk,30.0,C,"Nanton, AB",CA,1981,kindror01
+Quebec Nordiques,Marc Tardif,31.0,LW,"Granby, QC",CA,1981,tardima01
+St. Louis Blues,Brian Sutter,24.0,LW,"Viking, AB",CA,1981,suttebr01
+Toronto Maple Leafs,Darryl Sittler,30.0,C,"Kitchener, ON",CA,1981,sittlda01
+Vancouver Canucks,Kevin McCarthy,23.0,D,"Winnipeg, MB",CA,1981,mccarke01
+Washington Capitals,Ryan Walter,22.0,C/LW,"New Westminster, BC",CA,1981,waltery01
+Winnipeg Jets,Morris Lukowich,24.0,LW,"Speers, SK",CA,1981,lukowmo01
+Atlanta Flames,Jean Pronovost,34.0,RW,"Shawinigan Falls, QC",CA,1980,pronoje01
+Boston Bruins,Wayne Cashman,34.0,LW,"Kingston, ON",CA,1980,cashmwa01
+Buffalo Sabres,Danny Gare,25.0,RW,"Nelson, BC",CA,1980,gareda01
+Chicago Black Hawks,Keith Magnuson,32.0,D,"Saskatoon, SK",CA,1980,magnuke01
+Chicago Black Hawks,Terry Ruskowski,25.0,C,"Prince Albert, SK",CA,1980,ruskote01
+Colorado Rockies,Mike Christie,30.0,D,"Big Spring, TX",US,1980,chrismi01
+Colorado Rockies,Lanny McDonald,26.0,RW,"Hanna, AB",CA,1980,mcdonla01
+Colorado Rockies,René Robert,31.0,RW,"Trois-Rivieres, QC",CA,1980,roberre01
+Detroit Red Wings,Dale McCourt,23.0,C,"Falconbridge, ON",CA,1980,mccouda01
+Edmonton Oilers,Ron Chipperfield,25.0,C,"Brandon, MB",CA,1980,chippro01
+Hartford Whalers,Rick Ley,31.0,D,"Orillia, ON",CA,1980,leyri01
+Los Angeles Kings,Mike Murphy,29.0,RW,"Toronto, ON",CA,1980,murphmi01
+Minnesota North Stars,Paul Shmyr,34.0,D,"Cudworth, SK",CA,1980,shmyrpa01
+Montreal Canadiens,Serge Savard,34.0,D,"Montreal, QC",CA,1980,savarse01
+New York Islanders,Denis Potvin,26.0,D,"Ottawa, ON",CA,1980,potvide01
+New York Rangers,Dave Maloney,23.0,D,"Kitchener, ON",CA,1980,malonda02
+Philadelphia Flyers,Mel Bridgman,24.0,C,"Trenton, ON",CA,1980,bridgme01
+Pittsburgh Penguins,Orest Kindrachuk,29.0,C,"Nanton, AB",CA,1980,kindror01
+Quebec Nordiques,Marc Tardif,30.0,LW,"Granby, QC",CA,1980,tardima01
+St. Louis Blues,Brian Sutter,23.0,LW,"Viking, AB",CA,1980,suttebr01
+Toronto Maple Leafs,Darryl Sittler,29.0,C,"Kitchener, ON",CA,1980,sittlda01
+Vancouver Canucks,Kevin McCarthy,22.0,D,"Winnipeg, MB",CA,1980,mccarke01
+Washington Capitals,Ryan Walter,21.0,C/LW,"New Westminster, BC",CA,1980,waltery01
+Winnipeg Jets,Lars-Erik Sjoberg,35.0,D,Falun,SE,1980,sjobela01
+Atlanta Flames,Tom Lysiak,25.0,C,"High Prairie, AB",CA,1979,lysiato01
+Boston Bruins,Wayne Cashman,33.0,LW,"Kingston, ON",CA,1979,cashmwa01
+Buffalo Sabres,Danny Gare,24.0,RW,"Nelson, BC",CA,1979,gareda01
+Chicago Black Hawks,Keith Magnuson,31.0,D,"Saskatoon, SK",CA,1979,magnuke01
+Colorado Rockies,Gary Croteau,32.0,LW,"Sudbury, ON",CA,1979,crotega01
+Detroit Red Wings,Dennis Hextall,35.0,LW,"Poplar Point, MB",CA,1979,hextade01
+Detroit Red Wings,Nick Libett,33.0,LW,"Stratford, ON",CA,1979,libetni01
+Detroit Red Wings,Paul Woods,23.0,LW,"Hespeler, ON",CA,1979,woodspa01
+Los Angeles Kings,Mike Murphy,28.0,RW,"Toronto, ON",CA,1979,murphmi01
+Minnesota North Stars,J.P. Parise,37.0,LW,"Smooth Rock Falls, ON",CA,1979,parisjp01
+Montreal Canadiens,Yvan Cournoyer,35.0,RW,"Drummondville, QC",CA,1979,cournyv01
+New York Islanders,Clark Gillies,24.0,LW,"Moose Jaw, SK",CA,1979,gillicl01
+New York Rangers,Dave Maloney,22.0,D,"Kitchener, ON",CA,1979,malonda02
+Philadelphia Flyers,Bobby Clarke,29.0,C,"Flin Flon, MB",CA,1979,clarkbo01
+Pittsburgh Penguins,Orest Kindrachuk,28.0,C,"Nanton, AB",CA,1979,kindror01
+St. Louis Blues,Barry Gibbs,30.0,D,"Lloydminster, SK",CA,1979,gibbsba01
+Toronto Maple Leafs,Darryl Sittler,28.0,C,"Kitchener, ON",CA,1979,sittlda01
+Vancouver Canucks,Don Lever,26.0,LW,"South Porcupine, ON",CA,1979,leverdo01
+Washington Capitals,Guy Charron,30.0,C,"Verdun, QC",CA,1979,charrgu01
+Atlanta Flames,Tom Lysiak,24.0,C,"High Prairie, AB",CA,1978,lysiato01
+Boston Bruins,Wayne Cashman,32.0,LW,"Kingston, ON",CA,1978,cashmwa01
+Buffalo Sabres,Danny Gare,23.0,RW,"Nelson, BC",CA,1978,gareda01
+Chicago Black Hawks,Keith Magnuson,30.0,D,"Saskatoon, SK",CA,1978,magnuke01
+Colorado Rockies,Wilf Paiement,22.0,RW,"Earlton, ON",CA,1978,paiemwi01
+Detroit Red Wings,Dennis Hextall,34.0,LW,"Poplar Point, MB",CA,1978,hextade01
+Detroit Red Wings,Dan Maloney,27.0,LW,"Barrie, ON",CA,1978,malonda01
+Los Angeles Kings,Mike Murphy,27.0,RW,"Toronto, ON",CA,1978,murphmi01
+Minnesota North Stars,Nick Beverley,30.0,D,"Toronto, ON",CA,1978,beverni01
+Montreal Canadiens,Yvan Cournoyer,34.0,RW,"Drummondville, QC",CA,1978,cournyv01
+New York Islanders,Clark Gillies,23.0,LW,"Moose Jaw, SK",CA,1978,gillicl01
+New York Rangers,Phil Esposito,35.0,C,"Sault Ste. Marie, ON",CA,1978,esposph01
+Philadelphia Flyers,Bobby Clarke,28.0,C,"Flin Flon, MB",CA,1978,clarkbo01
+Pittsburgh Penguins,Jean Pronovost,32.0,RW,"Shawinigan Falls, QC",CA,1978,pronoje01
+St. Louis Blues,Red Berenson,38.0,C,"Regina, SK",CA,1978,berenre01
+Toronto Maple Leafs,Darryl Sittler,27.0,C,"Kitchener, ON",CA,1978,sittlda01
+Vancouver Canucks,Don Lever,25.0,LW,"South Porcupine, ON",CA,1978,leverdo01
+Washington Capitals,Yvon Labre,28.0,D,"Sudbury, ON",CA,1978,labreyv01
+Atlanta Flames,Pat Quinn,34.0,D,"Hamilton, ON",CA,1977,quinnpa01
+Boston Bruins,John Bucyk,41.0,LW,"Edmonton, AB",CA,1977,bucykjo01
+Buffalo Sabres,Jim Schoenfeld,24.0,D,"Galt, ON",CA,1977,schoeji01
+Chicago Black Hawks,Keith Magnuson,29.0,D,"Saskatoon, SK",CA,1977,magnuke01
+Chicago Black Hawks,Pit Martin,33.0,C,"Noranda, QC",CA,1977,martipi01
+Chicago Black Hawks,Stan Mikita,36.0,C/RW,Sokolce,CS,1977,mikitst01
+Colorado Rockies,Simon Nolet,35.0,RW,"St-Odilon, QC",CA,1977,noletsi01
+Detroit Red Wings,Danny Grant,30.0,RW,"Fredericton, NB",CA,1977,grantda01
+Detroit Red Wings,Dennis Polonich,23.0,C/RW,"Foam Lake, SK",CA,1977,polonde01
+Los Angeles Kings,Mike Murphy,26.0,RW,"Toronto, ON",CA,1977,murphmi01
+Minnesota North Stars,Bill Hogaboam,27.0,C,"Swift Current, SK",CA,1977,hogabbi01
+Montreal Canadiens,Yvan Cournoyer,33.0,RW,"Drummondville, QC",CA,1977,cournyv01
+New York Islanders,Clark Gillies,22.0,LW,"Moose Jaw, SK",CA,1977,gillicl01
+New York Islanders,Ed Westfall,36.0,D/RW,"Belleville, ON",CA,1977,westfed01
+New York Rangers,Phil Esposito,34.0,C,"Sault Ste. Marie, ON",CA,1977,esposph01
+Philadelphia Flyers,Bobby Clarke,27.0,C,"Flin Flon, MB",CA,1977,clarkbo01
+Pittsburgh Penguins,Ron Schock,33.0,C,"Chapleau, ON",CA,1977,schocro01
+St. Louis Blues,Garry Unger,29.0,C,"Calgary, AB",CA,1977,ungerga01
+Toronto Maple Leafs,Darryl Sittler,26.0,C,"Kitchener, ON",CA,1977,sittlda01
+Vancouver Canucks,Chris Oddleifson,26.0,C,"Brandon, MB",CA,1977,oddlech01
+Washington Capitals,Yvon Labre,27.0,D,"Sudbury, ON",CA,1977,labreyv01
+Atlanta Flames,Pat Quinn,33.0,D,"Hamilton, ON",CA,1976,quinnpa01
+Boston Bruins,John Bucyk,40.0,LW,"Edmonton, AB",CA,1976,bucykjo01
+Buffalo Sabres,Jim Schoenfeld,23.0,D,"Galt, ON",CA,1976,schoeji01
+Chicago Black Hawks,Pit Martin,32.0,C,"Noranda, QC",CA,1976,martipi01
+Chicago Black Hawks,Stan Mikita,35.0,C/RW,Sokolce,CS,1976,mikitst01
+Detroit Red Wings,Danny Grant,29.0,RW,"Fredericton, NB",CA,1976,grantda01
+Detroit Red Wings,Terry Harper,36.0,D,"Regina, SK",CA,1976,harpete01
+Kansas City Scouts,Simon Nolet,34.0,RW,"St-Odilon, QC",CA,1976,noletsi01
+Los Angeles Kings,Mike Murphy,25.0,RW,"Toronto, ON",CA,1976,murphmi01
+Minnesota North Stars,Bill Goldsworthy,31.0,RW,"Waterloo, ON",CA,1976,goldsbi01
+Montreal Canadiens,Yvan Cournoyer,32.0,RW,"Drummondville, QC",CA,1976,cournyv01
+New York Islanders,Ed Westfall,35.0,D/RW,"Belleville, ON",CA,1976,westfed01
+New York Rangers,Phil Esposito,33.0,C,"Sault Ste. Marie, ON",CA,1976,esposph01
+New York Rangers,Brad Park,27.0,D,"Toronto, ON",CA,1976,parkbr01
+Philadelphia Flyers,Bobby Clarke,26.0,C,"Flin Flon, MB",CA,1976,clarkbo01
+Pittsburgh Penguins,Ron Schock,32.0,C,"Chapleau, ON",CA,1976,schocro01
+St. Louis Blues,Barclay Plager,34.0,D,"Kirkland Lake, ON",CA,1976,plageba01
+Toronto Maple Leafs,Darryl Sittler,25.0,C,"Kitchener, ON",CA,1976,sittlda01
+Vancouver Canucks,Andre Boudrias,32.0,LW,"Montreal, QC",CA,1976,boudran01
+Washington Capitals,Bill Clement,25.0,C,"Thurso, QC",CA,1976,clemebi01
+Washington Capitals,Yvon Labre,26.0,D,"Sudbury, ON",CA,1976,labreyv01
+Atlanta Flames,Keith McCreary,34.0,RW,"Sundridge, ON",CA,1975,mccreke01
+Boston Bruins,John Bucyk,39.0,LW,"Edmonton, AB",CA,1975,bucykjo01
+Buffalo Sabres,Gerry Meehan,28.0,C,"Toronto, ON",CA,1975,meehage01
+Buffalo Sabres,Jim Schoenfeld,22.0,D,"Galt, ON",CA,1975,schoeji01
+Chicago Black Hawks,No Captain,,,,,1975,
+Detroit Red Wings,Marcel Dionne,23.0,C,"Drummondville, QC",CA,1975,dionnma01
+Kansas City Scouts,Simon Nolet,33.0,RW,"St-Odilon, QC",CA,1975,noletsi01
+Los Angeles Kings,Terry Harper,35.0,D,"Regina, SK",CA,1975,harpete01
+Minnesota North Stars,Bill Goldsworthy,30.0,RW,"Waterloo, ON",CA,1975,goldsbi01
+Montreal Canadiens,Henri Richard,38.0,C,"Montreal, QC",CA,1975,richahe01
+New York Islanders,Ed Westfall,34.0,D/RW,"Belleville, ON",CA,1975,westfed01
+New York Rangers,Brad Park,26.0,D,"Toronto, ON",CA,1975,parkbr01
+Philadelphia Flyers,Bobby Clarke,25.0,C,"Flin Flon, MB",CA,1975,clarkbo01
+Pittsburgh Penguins,Ron Schock,31.0,C,"Chapleau, ON",CA,1975,schocro01
+St. Louis Blues,Barclay Plager,33.0,D,"Kirkland Lake, ON",CA,1975,plageba01
+Toronto Maple Leafs,Dave Keon,34.0,C,"Noranda, QC",CA,1975,keonda01
+Vancouver Canucks,No Captain,,,,,1975,
+Washington Capitals,Doug Mohns,41.0,LW/D,"Capreol, ON",CA,1975,mohnsdo01
+Atlanta Flames,Keith McCreary,33.0,RW,"Sundridge, ON",CA,1974,mccreke01
+Boston Bruins,John Bucyk,38.0,LW,"Edmonton, AB",CA,1974,bucykjo01
+Buffalo Sabres,Gerry Meehan,27.0,C,"Toronto, ON",CA,1974,meehage01
+Chicago Black Hawks,No Captain,,,,,1974,
+Detroit Red Wings,Red Berenson,34.0,C,"Regina, SK",CA,1974,berenre01
+Detroit Red Wings,Gary Bergman,35.0,D,"Kenora, ON",CA,1974,bergmga01
+Detroit Red Wings,Alex Delvecchio,41.0,C/LW,"Fort William, ON",CA,1974,delveal01
+Detroit Red Wings,Ted Harris,37.0,D,"Winnipeg, MB",CA,1974,harrite01
+Detroit Red Wings,Larry Johnston,30.0,D,"Kitchener, ON",CA,1974,johnsla01
+Detroit Red Wings,Nick Libett,28.0,LW,"Stratford, ON",CA,1974,libetni01
+Detroit Red Wings,Mickey Redmond,26.0,RW,"Kirkland Lake, ON",CA,1974,redmomi01
+Los Angeles Kings,Terry Harper,34.0,D,"Regina, SK",CA,1974,harpete01
+Minnesota North Stars,Ted Harris,37.0,D,"Winnipeg, MB",CA,1974,harrite01
+Montreal Canadiens,Henri Richard,37.0,C,"Montreal, QC",CA,1974,richahe01
+New York Islanders,Ed Westfall,33.0,D/RW,"Belleville, ON",CA,1974,westfed01
+New York Rangers,Vic Hadfield,33.0,LW,"Oakville, ON",CA,1974,hadfivi01
+Philadelphia Flyers,Bobby Clarke,24.0,C,"Flin Flon, MB",CA,1974,clarkbo01
+Pittsburgh Penguins,Ron Schock,30.0,C,"Chapleau, ON",CA,1974,schocro01
+St. Louis Blues,Barclay Plager,32.0,D,"Kirkland Lake, ON",CA,1974,plageba01
+Toronto Maple Leafs,Dave Keon,33.0,C,"Noranda, QC",CA,1974,keonda01
+Vancouver Canucks,Orland Kurtenbach,37.0,C,"Cudworth, SK",CA,1974,kurteor01
+Atlanta Flames,Keith McCreary,32.0,RW,"Sundridge, ON",CA,1973,mccreke01
+Boston Bruins,No Captain,,,,,1973,
+Buffalo Sabres,Gerry Meehan,26.0,C,"Toronto, ON",CA,1973,meehage01
+Chicago Black Hawks,No Captain,,,,,1973,
+Detroit Red Wings,Alex Delvecchio,40.0,C/LW,"Fort William, ON",CA,1973,delveal01
+Los Angeles Kings,Bob Pulford,36.0,LW,"Newton Robinson, ON",CA,1973,pulfobo01
+Minnesota North Stars,Ted Harris,36.0,D,"Winnipeg, MB",CA,1973,harrite01
+Montreal Canadiens,Henri Richard,36.0,C,"Montreal, QC",CA,1973,richahe01
+New York Islanders,Ed Westfall,32.0,D/RW,"Belleville, ON",CA,1973,westfed01
+New York Rangers,Vic Hadfield,32.0,LW,"Oakville, ON",CA,1973,hadfivi01
+Philadelphia Flyers,Bobby Clarke,23.0,C,"Flin Flon, MB",CA,1973,clarkbo01
+Philadelphia Flyers,Ed Van Impe,32.0,D,"Saskatoon, SK",CA,1973,vanimed01
+Pittsburgh Penguins,No Captain,,,,,1973,
+St. Louis Blues,Barclay Plager,31.0,D,"Kirkland Lake, ON",CA,1973,plageba01
+Toronto Maple Leafs,Dave Keon,32.0,C,"Noranda, QC",CA,1973,keonda01
+Vancouver Canucks,Orland Kurtenbach,36.0,C,"Cudworth, SK",CA,1973,kurteor01
+Boston Bruins,No Captain,,,,,1972,
+Buffalo Sabres,Gerry Meehan,25.0,C,"Toronto, ON",CA,1972,meehage01
+Chicago Black Hawks,No Captain,,,,,1972,
+Detroit Red Wings,Alex Delvecchio,39.0,C/LW,"Fort William, ON",CA,1972,delveal01
+Los Angeles Kings,Bob Pulford,35.0,LW,"Newton Robinson, ON",CA,1972,pulfobo01
+Minnesota North Stars,Ted Harris,35.0,D,"Winnipeg, MB",CA,1972,harrite01
+Montreal Canadiens,Henri Richard,35.0,C,"Montreal, QC",CA,1972,richahe01
+New York Rangers,Vic Hadfield,31.0,LW,"Oakville, ON",CA,1972,hadfivi01
+Philadelphia Flyers,Ed Van Impe,31.0,D,"Saskatoon, SK",CA,1972,vanimed01
+Pittsburgh Penguins,No Captain,,,,,1972,
+St. Louis Blues,Barclay Plager,30.0,D,"Kirkland Lake, ON",CA,1972,plageba01
+St. Louis Blues,Bob Plager,28.0,D,"Kirkland Lake, ON",CA,1972,plagebo01
+St. Louis Blues,Frank St. Marseille,32.0,RW,"Levack, ON",CA,1972,stmarfr01
+St. Louis Blues,Garry Unger,24.0,C,"Calgary, AB",CA,1972,ungerga01
+St. Louis Blues,Jimmy Roberts,31.0,D/RW,"Toronto, ON",CA,1972,roberji01
+Toronto Maple Leafs,Dave Keon,31.0,C,"Noranda, QC",CA,1972,keonda01
+Vancouver Canucks,Orland Kurtenbach,35.0,C,"Cudworth, SK",CA,1972,kurteor01
+Boston Bruins,No Captain,,,,,1971,
+Buffalo Sabres,Floyd Smith,35.0,RW,"Perth, ON",CA,1971,smithfl01
+Chicago Black Hawks,No Captain,,,,,1971,
+Detroit Red Wings,Alex Delvecchio,38.0,C/LW,"Fort William, ON",CA,1971,delveal01
+Los Angeles Kings,Larry Cahan,37.0,D,"Fort William, ON",CA,1971,cahanla01
+Minnesota North Stars,Ted Harris,34.0,D,"Winnipeg, MB",CA,1971,harrite01
+Montreal Canadiens,Jean Beliveau,39.0,C,"Trois-Rivieres, QC",CA,1971,belivje01
+New York Rangers,Bob Nevin,32.0,RW,"South Porcupine, ON",CA,1971,nevinbo01
+Philadelphia Flyers,Ed Van Impe,30.0,D,"Saskatoon, SK",CA,1971,vanimed01
+Pittsburgh Penguins,No Captain,,,,,1971,
+St. Louis Blues,Red Berenson,31.0,C,"Regina, SK",CA,1971,berenre01
+St. Louis Blues,Barclay Plager,29.0,D,"Kirkland Lake, ON",CA,1971,plageba01
+St. Louis Blues,Bob Plager,27.0,D,"Kirkland Lake, ON",CA,1971,plagebo01
+St. Louis Blues,Frank St. Marseille,31.0,RW,"Levack, ON",CA,1971,stmarfr01
+St. Louis Blues,Garry Unger,23.0,C,"Calgary, AB",CA,1971,ungerga01
+Toronto Maple Leafs,Dave Keon,30.0,C,"Noranda, QC",CA,1971,keonda01
+Vancouver Canucks,Orland Kurtenbach,34.0,C,"Cudworth, SK",CA,1971,kurteor01
+Boston Bruins,No Captain,,,,,1970,
+Chicago Black Hawks,Pat Stapleton,29.0,D,"Sarnia, ON",CA,1970,staplpa01
+Detroit Red Wings,Alex Delvecchio,37.0,C/LW,"Fort William, ON",CA,1970,delveal01
+Los Angeles Kings,Larry Cahan,36.0,D,"Fort William, ON",CA,1970,cahanla01
+Minnesota North Stars,Claude Larose,27.0,RW,"Hearst, ON",CA,1970,laroscl01
+Montreal Canadiens,Jean Beliveau,38.0,C,"Trois-Rivieres, QC",CA,1970,belivje01
+New York Rangers,Bob Nevin,31.0,RW,"South Porcupine, ON",CA,1970,nevinbo01
+Philadelphia Flyers,Ed Van Impe,29.0,D,"Saskatoon, SK",CA,1970,vanimed01
+Pittsburgh Penguins,No Captain,,,,,1970,
+St. Louis Blues,Al Arbour,37.0,D,"Sudbury, ON",CA,1970,arboual01
+Toronto Maple Leafs,Dave Keon,29.0,C,"Noranda, QC",CA,1970,keonda01
+Boston Bruins,No Captain,,,,,1969,
+Chicago Black Hawks,No Captain,,,,,1969,
+Detroit Red Wings,Alex Delvecchio,36.0,C/LW,"Fort William, ON",CA,1969,delveal01
+Los Angeles Kings,Bob Wall,26.0,D,"Richmond Hill, ON",CA,1969,wallbo01
+Minnesota North Stars,Moose Vasko,33.0,D,"Duparquet, QC",CA,1969,vaskomo01
+Montreal Canadiens,Jean Beliveau,37.0,C,"Trois-Rivieres, QC",CA,1969,belivje01
+New York Rangers,Bob Nevin,30.0,RW,"South Porcupine, ON",CA,1969,nevinbo01
+Philadelphia Flyers,Ed Van Impe,28.0,D,"Saskatoon, SK",CA,1969,vanimed01
+Pittsburgh Penguins,Earl Ingarfield,34.0,C,"Lethbridge, AB",CA,1969,ingarea01
+Pittsburgh Penguins,No Captain,,,,,1969,
+St. Louis Blues,Al Arbour,36.0,D,"Sudbury, ON",CA,1969,arboual01
+Toronto Maple Leafs,George Armstrong,38.0,RW,"Skead, ON",CA,1969,armstge01
+Boston Bruins,No Captain,,,,,1968,
+Chicago Black Hawks,Pierre Pilote,36.0,D,"Kenogami, QC",CA,1968,pilotpi01
+Detroit Red Wings,Alex Delvecchio,35.0,C/LW,"Fort William, ON",CA,1968,delveal01
+Los Angeles Kings,Bob Wall,25.0,D,"Richmond Hill, ON",CA,1968,wallbo01
+Minnesota North Stars,Bob Woytowich,26.0,D,"Winnipeg, MB",CA,1968,woytobo01
+Montreal Canadiens,Jean Beliveau,36.0,C,"Trois-Rivieres, QC",CA,1968,belivje01
+New York Rangers,Bob Nevin,29.0,RW,"South Porcupine, ON",CA,1968,nevinbo01
+Philadelphia Flyers,Lou Angotti,30.0,C/RW,"Toronto, ON",CA,1968,angotlo01
+Pittsburgh Penguins,Ab McDonald,31.0,LW,"Winnipeg, MB",CA,1968,mcdonab01
+St. Louis Blues,Al Arbour,35.0,D,"Sudbury, ON",CA,1968,arboual01
+Toronto Maple Leafs,George Armstrong,37.0,RW,"Skead, ON",CA,1968,armstge01
+Boston Bruins,John Bucyk,31.0,LW,"Edmonton, AB",CA,1967,bucykjo01
+Chicago Black Hawks,Pierre Pilote,35.0,D,"Kenogami, QC",CA,1967,pilotpi01
+Detroit Red Wings,Alex Delvecchio,34.0,C/LW,"Fort William, ON",CA,1967,delveal01
+Montreal Canadiens,Jean Beliveau,35.0,C,"Trois-Rivieres, QC",CA,1967,belivje01
+New York Rangers,Bob Nevin,28.0,RW,"South Porcupine, ON",CA,1967,nevinbo01
+Toronto Maple Leafs,George Armstrong,36.0,RW,"Skead, ON",CA,1967,armstge01
+Boston Bruins,Leo Boivin,33.0,D,"Prescott, ON",CA,1966,boivile01
+Chicago Black Hawks,Pierre Pilote,34.0,D,"Kenogami, QC",CA,1966,pilotpi01
+Detroit Red Wings,Alex Delvecchio,33.0,C/LW,"Fort William, ON",CA,1966,delveal01
+Montreal Canadiens,Jean Beliveau,34.0,C,"Trois-Rivieres, QC",CA,1966,belivje01
+New York Rangers,Bob Nevin,27.0,RW,"South Porcupine, ON",CA,1966,nevinbo01
+Toronto Maple Leafs,George Armstrong,35.0,RW,"Skead, ON",CA,1966,armstge01
+Boston Bruins,Leo Boivin,32.0,D,"Prescott, ON",CA,1965,boivile01
+Chicago Black Hawks,Pierre Pilote,33.0,D,"Kenogami, QC",CA,1965,pilotpi01
+Detroit Red Wings,Alex Delvecchio,32.0,C/LW,"Fort William, ON",CA,1965,delveal01
+Montreal Canadiens,Jean Beliveau,33.0,C,"Trois-Rivieres, QC",CA,1965,belivje01
+New York Rangers,Camille Henry,32.0,C,"Quebec City, QC",CA,1965,henryca01
+New York Rangers,Bob Nevin,26.0,RW,"South Porcupine, ON",CA,1965,nevinbo01
+Toronto Maple Leafs,George Armstrong,34.0,RW,"Skead, ON",CA,1965,armstge01
+Boston Bruins,Leo Boivin,31.0,D,"Prescott, ON",CA,1964,boivile01
+Chicago Black Hawks,Pierre Pilote,32.0,D,"Kenogami, QC",CA,1964,pilotpi01
+Detroit Red Wings,Alex Delvecchio,31.0,C/LW,"Fort William, ON",CA,1964,delveal01
+Montreal Canadiens,Jean Beliveau,32.0,C,"Trois-Rivieres, QC",CA,1964,belivje01
+New York Rangers,Andy Bathgate,31.0,RW,"Winnipeg, MB",CA,1964,bathgan01
+New York Rangers,Camille Henry,31.0,C,"Quebec City, QC",CA,1964,henryca01
+Toronto Maple Leafs,George Armstrong,33.0,RW,"Skead, ON",CA,1964,armstge01
+Boston Bruins,Don McKenney,28.0,C,"Smiths Falls, ON",CA,1963,mckendo01
+Chicago Black Hawks,Pierre Pilote,31.0,D,"Kenogami, QC",CA,1963,pilotpi01
+Detroit Red Wings,Alex Delvecchio,30.0,C/LW,"Fort William, ON",CA,1963,delveal01
+Montreal Canadiens,Jean Beliveau,31.0,C,"Trois-Rivieres, QC",CA,1963,belivje01
+New York Rangers,Andy Bathgate,30.0,RW,"Winnipeg, MB",CA,1963,bathgan01
+Toronto Maple Leafs,George Armstrong,32.0,RW,"Skead, ON",CA,1963,armstge01
+Boston Bruins,Don McKenney,27.0,C,"Smiths Falls, ON",CA,1962,mckendo01
+Chicago Black Hawks,Pierre Pilote,30.0,D,"Kenogami, QC",CA,1962,pilotpi01
+Detroit Red Wings,Gordie Howe,33.0,RW,"Floral, SK",CA,1962,howego01
+Montreal Canadiens,Jean Beliveau,30.0,C,"Trois-Rivieres, QC",CA,1962,belivje01
+New York Rangers,Andy Bathgate,29.0,RW,"Winnipeg, MB",CA,1962,bathgan01
+Toronto Maple Leafs,George Armstrong,31.0,RW,"Skead, ON",CA,1962,armstge01
+Boston Bruins,Fern Flaman,34.0,D,"Dysart, SK",CA,1961,flamafe01
+Chicago Black Hawks,Ed Litzenberger,28.0,C/RW,"Neudorf, SK",CA,1961,litzeed01
+Detroit Red Wings,Gordie Howe,32.0,RW,"Floral, SK",CA,1961,howego01
+Montreal Canadiens,Doug Harvey,36.0,D,"Montreal, QC",CA,1961,harvedo01
+New York Rangers,Red Sullivan,31.0,C,"Peterborough, ON",CA,1961,sullire01
+Toronto Maple Leafs,George Armstrong,30.0,RW,"Skead, ON",CA,1961,armstge01
+Boston Bruins,Fern Flaman,33.0,D,"Dysart, SK",CA,1960,flamafe01
+Chicago Black Hawks,Ed Litzenberger,27.0,C/RW,"Neudorf, SK",CA,1960,litzeed01
+Detroit Red Wings,Gordie Howe,31.0,RW,"Floral, SK",CA,1960,howego01
+Montreal Canadiens,Maurice Richard,38.0,RW,"Montreal, QC",CA,1960,richama01
+New York Rangers,Red Sullivan,30.0,C,"Peterborough, ON",CA,1960,sullire01
+Toronto Maple Leafs,George Armstrong,29.0,RW,"Skead, ON",CA,1960,armstge01
+Boston Bruins,Fern Flaman,32.0,D,"Dysart, SK",CA,1959,flamafe01
+Chicago Black Hawks,Ed Litzenberger,26.0,C/RW,"Neudorf, SK",CA,1959,litzeed01
+Detroit Red Wings,Gordie Howe,30.0,RW,"Floral, SK",CA,1959,howego01
+Montreal Canadiens,Maurice Richard,37.0,RW,"Montreal, QC",CA,1959,richama01
+New York Rangers,Red Sullivan,29.0,C,"Peterborough, ON",CA,1959,sullire01
+Toronto Maple Leafs,George Armstrong,28.0,RW,"Skead, ON",CA,1959,armstge01
+Boston Bruins,Fern Flaman,31.0,D,"Dysart, SK",CA,1958,flamafe01
+Chicago Black Hawks,No Captain,,,,,1958,
+Detroit Red Wings,Red Kelly,30.0,D/C,"Simcoe, ON",CA,1958,kellyre01
+Montreal Canadiens,Maurice Richard,36.0,RW,"Montreal, QC",CA,1958,richama01
+New York Rangers,Red Sullivan,28.0,C,"Peterborough, ON",CA,1958,sullire01
+Toronto Maple Leafs,George Armstrong,27.0,RW,"Skead, ON",CA,1958,armstge01
+Boston Bruins,Fern Flaman,30.0,D,"Dysart, SK",CA,1957,flamafe01
+Chicago Black Hawks,Gus Mortson,32.0,D,"New Liskeard, ON",CA,1957,mortsgu01
+Detroit Red Wings,Red Kelly,29.0,D/C,"Simcoe, ON",CA,1957,kellyre01
+Montreal Canadiens,Maurice Richard,35.0,RW,"Montreal, QC",CA,1957,richama01
+New York Rangers,Harry Howell,24.0,D,"Hamilton, ON",CA,1957,howelha01
+Toronto Maple Leafs,Ted Kennedy,31.0,C,"Humberstone, ON",CA,1957,kennete01
+Toronto Maple Leafs,Jimmy Thomson,29.0,D,"Winnipeg, MB",CA,1957,thomsji01
+Boston Bruins,Fern Flaman,29.0,D,"Dysart, SK",CA,1956,flamafe01
+Chicago Black Hawks,Gus Mortson,31.0,D,"New Liskeard, ON",CA,1956,mortsgu01
+Detroit Red Wings,Ted Lindsay,30.0,LW,"Renfrew, ON",CA,1956,lindste01
+Montreal Canadiens,Butch Bouchard,36.0,D,"Montreal, QC",CA,1956,bouchbu01
+New York Rangers,Harry Howell,23.0,D,"Hamilton, ON",CA,1956,howelha01
+Toronto Maple Leafs,Sid Smith,30.0,LW,"Toronto, ON",CA,1956,smithsi01
+Boston Bruins,Ed Sandford,26.0,LW,"New Toronto, ON",CA,1955,sandfed01
+Boston Bruins,Milt Schmidt,36.0,C/D,"Kitchener, ON",CA,1955,schmimi01
+Chicago Black Hawks,Gus Mortson,30.0,D,"New Liskeard, ON",CA,1955,mortsgu01
+Detroit Red Wings,Ted Lindsay,29.0,LW,"Renfrew, ON",CA,1955,lindste01
+Montreal Canadiens,Butch Bouchard,35.0,D,"Montreal, QC",CA,1955,bouchbu01
+New York Rangers,Don Raleigh,28.0,C,"Kenora, ON",CA,1955,raleido01
+Toronto Maple Leafs,Ted Kennedy,29.0,C,"Humberstone, ON",CA,1955,kennete01
+Boston Bruins,Milt Schmidt,35.0,C/D,"Kitchener, ON",CA,1954,schmimi01
+Chicago Black Hawks,Bill Gadsby,26.0,D,"Calgary, AB",CA,1954,gadsbbi01
+Detroit Red Wings,Ted Lindsay,28.0,LW,"Renfrew, ON",CA,1954,lindste01
+Montreal Canadiens,Butch Bouchard,34.0,D,"Montreal, QC",CA,1954,bouchbu01
+New York Rangers,Don Raleigh,27.0,C,"Kenora, ON",CA,1954,raleido01
+New York Rangers,Allan Stanley,27.0,D,"Timmins, ON",CA,1954,stanlal01
+Toronto Maple Leafs,Ted Kennedy,28.0,C,"Humberstone, ON",CA,1954,kennete01
+Boston Bruins,Milt Schmidt,34.0,C/D,"Kitchener, ON",CA,1953,schmimi01
+Chicago Black Hawks,Bill Gadsby,25.0,D,"Calgary, AB",CA,1953,gadsbbi01
+Detroit Red Wings,Ted Lindsay,27.0,LW,"Renfrew, ON",CA,1953,lindste01
+Montreal Canadiens,Butch Bouchard,33.0,D,"Montreal, QC",CA,1953,bouchbu01
+New York Rangers,Allan Stanley,26.0,D,"Timmins, ON",CA,1953,stanlal01
+Toronto Maple Leafs,Ted Kennedy,27.0,C,"Humberstone, ON",CA,1953,kennete01
+Boston Bruins,Milt Schmidt,33.0,C/D,"Kitchener, ON",CA,1952,schmimi01
+Chicago Black Hawks,Jack Stewart,34.0,D,"Pilot Mound, MB",CA,1952,stewaja01
+Detroit Red Wings,Sid Abel,33.0,C/LW,"Melville, SK",CA,1952,abelsi01
+Montreal Canadiens,Butch Bouchard,32.0,D,"Montreal, QC",CA,1952,bouchbu01
+New York Rangers,Frank Eddolls,30.0,D,"Lachine, QC",CA,1952,eddolfr01
+New York Rangers,Allan Stanley,25.0,D,"Timmins, ON",CA,1952,stanlal01
+Toronto Maple Leafs,Ted Kennedy,26.0,C,"Humberstone, ON",CA,1952,kennete01
+Boston Bruins,Milt Schmidt,32.0,C/D,"Kitchener, ON",CA,1951,schmimi01
+Chicago Black Hawks,Jack Stewart,33.0,D,"Pilot Mound, MB",CA,1951,stewaja01
+Detroit Red Wings,Sid Abel,32.0,C/LW,"Melville, SK",CA,1951,abelsi01
+Montreal Canadiens,Butch Bouchard,31.0,D,"Montreal, QC",CA,1951,bouchbu01
+New York Rangers,Frank Eddolls,29.0,D,"Lachine, QC",CA,1951,eddolfr01
+Toronto Maple Leafs,Ted Kennedy,25.0,C,"Humberstone, ON",CA,1951,kennete01
+Boston Bruins,Jack Crawford,33.0,D,"Dublin, ON",CA,1950,crawfja01
+Chicago Black Hawks,Doug Bentley,33.0,LW,"Delisle, SK",CA,1950,bentldo01
+Detroit Red Wings,Sid Abel,31.0,C/LW,"Melville, SK",CA,1950,abelsi01
+Montreal Canadiens,Butch Bouchard,30.0,D,"Montreal, QC",CA,1950,bouchbu01
+New York Rangers,Buddy O'Connor,33.0,C,"Montreal, QC",CA,1950,oconnbu01
+Toronto Maple Leafs,Ted Kennedy,24.0,C,"Humberstone, ON",CA,1950,kennete01
+Boston Bruins,Jack Crawford,32.0,D,"Dublin, ON",CA,1949,crawfja01
+Chicago Black Hawks,Gaye Stewart,25.0,LW,"Fort William, ON",CA,1949,stewaga01
+Detroit Red Wings,Sid Abel,30.0,C/LW,"Melville, SK",CA,1949,abelsi01
+Montreal Canadiens,Butch Bouchard,29.0,D,"Montreal, QC",CA,1949,bouchbu01
+New York Rangers,Neil Colville,34.0,C/D,"Edmonton, AB",CA,1949,colvine01
+Toronto Maple Leafs,Ted Kennedy,23.0,C,"Humberstone, ON",CA,1949,kennete01
+Boston Bruins,Jack Crawford,31.0,D,"Dublin, ON",CA,1948,crawfja01
+Chicago Black Hawks,John Mariucci,31.0,D,"Eveleth, MN",US,1948,mariujo01
+Detroit Red Wings,Sid Abel,29.0,C/LW,"Melville, SK",CA,1948,abelsi01
+Montreal Canadiens,Toe Blake,35.0,LW,"Victoria Mines, ON",CA,1948,blaketo01
+Montreal Canadiens,Bill Durnan,32.0,G,"Toronto, ON",CA,1948,durnabi01
+New York Rangers,Neil Colville,33.0,C/D,"Edmonton, AB",CA,1948,colvine01
+Toronto Maple Leafs,Syl Apps,33.0,C,"Paris, ON",CA,1948,appssy01
+Boston Bruins,Jack Crawford,30.0,D,"Dublin, ON",CA,1947,crawfja01
+Boston Bruins,Dit Clapper,39.0,RW/D,"Newmarket, ON",CA,1947,clappdi01
+Chicago Black Hawks,Red Hamill,30.0,LW,"Toronto, ON",CA,1947,hamilre02
+Detroit Red Wings,Sid Abel,28.0,C/LW,"Melville, SK",CA,1947,abelsi01
+Montreal Canadiens,Toe Blake,34.0,LW,"Victoria Mines, ON",CA,1947,blaketo01
+New York Rangers,Neil Colville,32.0,C/D,"Edmonton, AB",CA,1947,colvine01
+Toronto Maple Leafs,Syl Apps,32.0,C,"Paris, ON",CA,1947,appssy01
+Boston Bruins,Dit Clapper,38.0,RW/D,"Newmarket, ON",CA,1946,clappdi01
+Chicago Black Hawks,John Mariucci,29.0,D,"Eveleth, MN",US,1946,mariujo01
+Detroit Red Wings,Sid Abel,27.0,C/LW,"Melville, SK",CA,1946,abelsi01
+Detroit Red Wings,Flash Hollett,34.0,D,"North Sydney, NS",CA,1946,hollefl01
+Montreal Canadiens,Toe Blake,33.0,LW,"Victoria Mines, ON",CA,1946,blaketo01
+New York Rangers,Neil Colville,31.0,C/D,"Edmonton, AB",CA,1946,colvine01
+Toronto Maple Leafs,Syl Apps,31.0,C,"Paris, ON",CA,1946,appssy01
+Boston Bruins,Dit Clapper,37.0,RW/D,"Newmarket, ON",CA,1945,clappdi01
+Chicago Black Hawks,Clint Smith,31.0,C,"Assiniboia, SK",CA,1945,smithcl01
+Detroit Red Wings,Flash Hollett,33.0,D,"North Sydney, NS",CA,1945,hollefl01
+Montreal Canadiens,Toe Blake,32.0,LW,"Victoria Mines, ON",CA,1945,blaketo01
+New York Rangers,Ott Heller,34.0,D,"Berlin, ON",CA,1945,helleot01
+Toronto Maple Leafs,Bob Davidson,32.0,LW,"Toronto, ON",CA,1945,davidbo01
+Boston Bruins,Dit Clapper,36.0,RW/D,"Newmarket, ON",CA,1944,clappdi01
+Chicago Black Hawks,Doug Bentley,27.0,LW,"Delisle, SK",CA,1944,bentldo01
+Detroit Red Wings,Mud Bruneteau,29.0,RW,"St. Boniface, MB",CA,1944,brunemu01
+Detroit Red Wings,Flash Hollett,32.0,D,"North Sydney, NS",CA,1944,hollefl01
+Montreal Canadiens,Toe Blake,31.0,LW,"Victoria Mines, ON",CA,1944,blaketo01
+New York Rangers,Ott Heller,33.0,D,"Berlin, ON",CA,1944,helleot01
+Toronto Maple Leafs,Bob Davidson,31.0,LW,"Toronto, ON",CA,1944,davidbo01
+Boston Bruins,Dit Clapper,35.0,RW/D,"Newmarket, ON",CA,1943,clappdi01
+Chicago Black Hawks,Doug Bentley,26.0,LW,"Delisle, SK",CA,1943,bentldo01
+Detroit Red Wings,Sid Abel,24.0,C/LW,"Melville, SK",CA,1943,abelsi01
+Montreal Canadiens,Toe Blake,30.0,LW,"Victoria Mines, ON",CA,1943,blaketo01
+New York Rangers,Ott Heller,32.0,D,"Berlin, ON",CA,1943,helleot01
+Toronto Maple Leafs,Syl Apps,28.0,C,"Paris, ON",CA,1943,appssy01
+Boston Bruins,Dit Clapper,34.0,RW/D,"Newmarket, ON",CA,1942,clappdi01
+Chicago Black Hawks,Earl Seibert,30.0,D,"Berlin, ON",CA,1942,seibeea01
+Detroit Red Wings,Ebbie Goodfellow,34.0,C/D,"Ottawa, ON",CA,1942,goodfeb01
+Detroit Red Wings,Syd Howe,30.0,C/LW,"Ottawa, ON",CA,1942,howesy01
+Montreal Canadiens,Toe Blake,29.0,LW,"Victoria Mines, ON",CA,1942,blaketo01
+New York Rangers,Art Coulter,32.0,D,"Winnipeg, MB",CA,1942,coultar01
+Toronto Maple Leafs,Syl Apps,27.0,C,"Paris, ON",CA,1942,appssy01
+Boston Bruins,Dit Clapper,33.0,RW/D,"Newmarket, ON",CA,1941,clappdi01
+Chicago Black Hawks,Earl Seibert,29.0,D,"Berlin, ON",CA,1941,seibeea01
+Detroit Red Wings,Ebbie Goodfellow,33.0,C/D,"Ottawa, ON",CA,1941,goodfeb01
+Montreal Canadiens,Toe Blake,28.0,LW,"Victoria Mines, ON",CA,1941,blaketo01
+New York Rangers,Art Coulter,31.0,D,"Winnipeg, MB",CA,1941,coultar01
+Toronto Maple Leafs,Syl Apps,26.0,C,"Paris, ON",CA,1941,appssy01
+Boston Bruins,Dit Clapper,32.0,RW/D,"Newmarket, ON",CA,1940,clappdi01
+Chicago Black Hawks,Johnny Gottselig,34.0,LW,Odessa,RU,1940,gottsjo01
+Detroit Red Wings,Ebbie Goodfellow,32.0,C/D,"Ottawa, ON",CA,1940,goodfeb01
+Montreal Canadiens,Walt Buswell,32.0,D,"Montreal, QC",CA,1940,buswewa01
+New York Rangers,Art Coulter,30.0,D,"Winnipeg, MB",CA,1940,coultar01
+Toronto Maple Leafs,Red Horner,30.0,D,"Lynden, ON",CA,1940,hornere01
+Boston Bruins,Cooney Weiland,34.0,C,"Seaforth (Edmondville), ON",CA,1939,weilaco01
+Chicago Black Hawks,Johnny Gottselig,33.0,LW,Odessa,RU,1939,gottsjo01
+Detroit Red Wings,Ebbie Goodfellow,31.0,C/D,"Ottawa, ON",CA,1939,goodfeb01
+Montreal Canadiens,Babe Siebert,35.0,LW/D,"Plattsville, ON",CA,1939,siebeba01
+New York Rangers,Art Coulter,29.0,D,"Winnipeg, MB",CA,1939,coultar01
+Toronto Maple Leafs,Red Horner,29.0,D,"Lynden, ON",CA,1939,hornere01
+Boston Bruins,Dit Clapper,30.0,RW/D,"Newmarket, ON",CA,1938,clappdi01
+Chicago Black Hawks,Johnny Gottselig,32.0,LW,Odessa,RU,1938,gottsjo01
+Detroit Red Wings,Doug Young,29.0,D,"Medicine Hat, AB",CA,1938,youngdo01
+Montreal Canadiens,Babe Siebert,34.0,LW/D,"Plattsville, ON",CA,1938,siebeba01
+New York Rangers,Art Coulter,28.0,D,"Winnipeg, MB",CA,1938,coultar01
+Toronto Maple Leafs,Charlie Conacher,28.0,RW,"Toronto, ON",CA,1938,conacch01
+Boston Bruins,Dit Clapper,29.0,RW/D,"Newmarket, ON",CA,1937,clappdi01
+Chicago Black Hawks,Johnny Gottselig,31.0,LW,Odessa,RU,1937,gottsjo01
+Detroit Red Wings,Doug Young,28.0,D,"Medicine Hat, AB",CA,1937,youngdo01
+Montreal Canadiens,Babe Siebert,33.0,LW/D,"Plattsville, ON",CA,1937,siebeba01
+New York Rangers,Bill Cook,40.0,RW,"Brantford, ON",CA,1937,cookbi01
+Toronto Maple Leafs,Hap Day,35.0,D,"Owen Sound, ON",CA,1937,dayha01
+Boston Bruins,Dit Clapper,28.0,RW/D,"Newmarket, ON",CA,1936,clappdi01
+Chicago Black Hawks,Johnny Gottselig,30.0,LW,Odessa,RU,1936,gottsjo01
+Detroit Red Wings,Doug Young,27.0,D,"Medicine Hat, AB",CA,1936,youngdo01
+Montreal Canadiens,Sylvio Mantha,33.0,D,"Montreal, QC",CA,1936,manthsy01
+New York Rangers,Bill Cook,39.0,RW,"Brantford, ON",CA,1936,cookbi01
+Toronto Maple Leafs,Hap Day,34.0,D,"Owen Sound, ON",CA,1936,dayha01
+Boston Bruins,Dit Clapper,27.0,RW/D,"Newmarket, ON",CA,1935,clappdi01
+Chicago Black Hawks,No Captain,,,,,1935,
+Detroit Red Wings,Ebbie Goodfellow,27.0,C/D,"Ottawa, ON",CA,1935,goodfeb01
+Montreal Canadiens,Sylvio Mantha,32.0,D,"Montreal, QC",CA,1935,manthsy01
+New York Rangers,Bill Cook,38.0,RW,"Brantford, ON",CA,1935,cookbi01
+Toronto Maple Leafs,Hap Day,33.0,D,"Owen Sound, ON",CA,1935,dayha01
+Boston Bruins,Dit Clapper,26.0,RW/D,"Newmarket, ON",CA,1934,clappdi01
+Chicago Black Hawks,Charlie Gardiner,29.0,G,Edinburgh,GB,1934,gardich01
+Detroit Red Wings,Herbie Lewis,27.0,LW,"Calgary, AB",CA,1934,lewishe01
+Montreal Canadiens,Sylvio Mantha,31.0,D,"Montreal, QC",CA,1934,manthsy01
+New York Rangers,Bill Cook,37.0,RW,"Brantford, ON",CA,1934,cookbi01
+Toronto Maple Leafs,Hap Day,32.0,D,"Owen Sound, ON",CA,1934,dayha01
+Boston Bruins,Dit Clapper,25.0,RW/D,"Newmarket, ON",CA,1933,clappdi01
+Chicago Black Hawks,Helge Bostrom,39.0,D,"Gimli, MB",CA,1933,bostrhe01
+Detroit Red Wings,Larry Aurie,27.0,RW,"Sudbury, ON",CA,1933,auriela01
+Montreal Canadiens,George Hainsworth,37.0,G,"Toronto, ON",CA,1933,hainsge01
+New York Rangers,Bill Cook,36.0,RW,"Brantford, ON",CA,1933,cookbi01
+Toronto Maple Leafs,Hap Day,31.0,D,"Owen Sound, ON",CA,1933,dayha01
+Boston Bruins,George Owen,30.0,D,"Hamilton, ON",CA,1932,owenge01
+Chicago Black Hawks,Cy Wentworth,27.0,D,"Grimsby, ON",CA,1932,wentwcy01
+Detroit Falcons,Carson Cooper,32.0,RW,"Cornwall, ON",CA,1932,coopeca01
+Montreal Canadiens,Sylvio Mantha,29.0,D,"Montreal, QC",CA,1932,manthsy01
+New York Rangers,Bill Cook,35.0,RW,"Brantford, ON",CA,1932,cookbi01
+Toronto Maple Leafs,Hap Day,30.0,D,"Owen Sound, ON",CA,1932,dayha01
+Boston Bruins,Lionel Hitchman,29.0,D,"Toronto, ON",CA,1931,hitchli01
+Chicago Black Hawks,Ty Arbour,34.0,LW,"Waubaushene, ON",CA,1931,arbouty01
+Detroit Falcons,George Hay,33.0,LW,"Listowel, ON",CA,1931,hayge01
+Montreal Canadiens,Sylvio Mantha,28.0,D,"Montreal, QC",CA,1931,manthsy01
+New York Rangers,Bill Cook,34.0,RW,"Brantford, ON",CA,1931,cookbi01
+Toronto Maple Leafs,Hap Day,29.0,D,"Owen Sound, ON",CA,1931,dayha01
+Boston Bruins,Lionel Hitchman,28.0,D,"Toronto, ON",CA,1930,hitchli01
+Chicago Black Hawks,Duke Dukowski,27.0,D,"Regina, SK",CA,1930,dukowdu01
+Detroit Cougars,Reg Noble,33.0,C/D,"Collingwood, ON",CA,1930,noblere01
+Montreal Canadiens,Sylvio Mantha,27.0,D,"Montreal, QC",CA,1930,manthsy01
+New York Rangers,Bill Cook,33.0,RW,"Brantford, ON",CA,1930,cookbi01
+Toronto Maple Leafs,Hap Day,28.0,D,"Owen Sound, ON",CA,1930,dayha01
+Boston Bruins,Lionel Hitchman,27.0,D,"Toronto, ON",CA,1929,hitchli01
+Chicago Black Hawks,Dick Irvin,36.0,C,"Hamilton, ON",CA,1929,irvindi01
+Detroit Cougars,Reg Noble,32.0,C/D,"Collingwood, ON",CA,1929,noblere01
+Montreal Canadiens,Sylvio Mantha,26.0,D,"Montreal, QC",CA,1929,manthsy01
+New York Rangers,Bill Cook,32.0,RW,"Brantford, ON",CA,1929,cookbi01
+Toronto Maple Leafs,Hap Day,27.0,D,"Owen Sound, ON",CA,1929,dayha01
+Boston Bruins,Lionel Hitchman,26.0,D,"Toronto, ON",CA,1928,hitchli01
+Chicago Black Hawks,Dick Irvin,35.0,C,"Hamilton, ON",CA,1928,irvindi01
+Detroit Cougars,Reg Noble,31.0,C/D,"Collingwood, ON",CA,1928,noblere01
+Montreal Canadiens,Sylvio Mantha,25.0,D,"Montreal, QC",CA,1928,manthsy01
+New York Rangers,Bill Cook,31.0,RW,"Brantford, ON",CA,1928,cookbi01
+Toronto Maple Leafs,Hap Day,26.0,D,"Owen Sound, ON",CA,1928,dayha01
+Boston Bruins,Sprague Cleghorn,36.0,D,"Montreal, QC",CA,1927,cleghsp01
+Chicago Black Hawks,Dick Irvin,34.0,C,"Hamilton, ON",CA,1927,irvindi01
+Detroit Cougars,Art Duncan,35.0,D,"Sault Ste. Marie, ON",CA,1927,duncaar01
+Montreal Canadiens,Sylvio Mantha,24.0,D,"Montreal, QC",CA,1927,manthsy01
+New York Rangers,Bill Cook,30.0,RW,"Brantford, ON",CA,1927,cookbi01
+Boston Bruins,Sprague Cleghorn,35.0,D,"Montreal, QC",CA,1926,cleghsp01
+Montreal Canadiens,Billy Coutu,33.0,D,"North Bay, ON",CA,1926,coutubi01
+Boston Bruins,No Captain,,,,,1925,
+Montreal Canadiens,Sprague Cleghorn,34.0,D,"Montreal, QC",CA,1925,cleghsp01
+Montreal Canadiens,Sprague Cleghorn,33.0,D,"Montreal, QC",CA,1924,cleghsp01
+Montreal Canadiens,Sprague Cleghorn,32.0,D,"Montreal, QC",CA,1923,cleghsp01
+Montreal Canadiens,Newsy Lalonde,34.0,C,"Cornwall, ON",CA,1922,lalonne01
+Montreal Canadiens,Newsy Lalonde,33.0,C,"Cornwall, ON",CA,1921,lalonne01
+Montreal Canadiens,Newsy Lalonde,32.0,C,"Cornwall, ON",CA,1920,lalonne01
+Montreal Canadiens,Newsy Lalonde,31.0,C,"Cornwall, ON",CA,1919,lalonne01
+Montreal Canadiens,Newsy Lalonde,30.0,C,"Cornwall, ON",CA,1918,lalonne01

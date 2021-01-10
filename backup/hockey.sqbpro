@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Scott/Documents/Data Science/SQL/databses/hockey.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="150"/><column_width id="3" width="4456"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,16:mainGoalie_Stats_Reg"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">SELECT  * 
+FROM Player_Stats_Reg_AGG
+</sql><sql name="SQL 2">CREATE VIEW Player_Stats_Reg_AGG
+AS
+SELECT   Year, pid, Player, Age, Tm, POS, SUM(GP) as GP, SUM(G) AS G, SUM(A) AS A, SUM(PTS) AS PTS, 
+SUM(&quot;+/-&quot;) AS '+/-', SUM(PIM) AS PIM, SUM(PS) AS PS, SUM(EVG) AS EVG, SUM(PPG) AS PPG,
+SUM(SHG) AS SHG, SUM(GWG) AS GWG, SUM(EVA) AS EVA, SUM(PPA) AS PPA, SUM(SHA) AS SHA,
+SUM(S) AS S, ROUND(SUM(CAST(G AS FLOAT)) / SUM(CAST(S AS FLOAT)),3) * 100 AS 'Shot_%',
+SUM(TOI) AS TOI, ROUND(SUM(CAST(TOI AS FLOAT)) / SUM(GP),2) AS ATOI,
+SUM(BLK) AS BLK, SUM(HIT) AS HIT, SUM(FOW) as FOW, SUM(FOL) AS FOL, 
+ROUND(SUM(CAST(FOW AS FLOAT)) / (SUM(CAST(FOW AS FLOAT)) + SUM(CAST(FOL AS FLOAT))),3) * 100  AS 'FO_%'
+FROM Player_Stats_Reg
+GROUP BY pid, YR_INT</sql><current_tab id="0"/></tab_sql></sqlb_project>
